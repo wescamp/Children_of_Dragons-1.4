@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-02 17:42+0200\n"
-"PO-Revision-Date: 2008-02-01 14:35+0100\n"
+"PO-Revision-Date: 2008-04-25 19:20+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "Immagini delle unità originali"
 #. [about]
 #: Children_of_Dragons.cfg:33
 msgid "Maps"
-msgstr ""
+msgstr "Mappe"
 
 #. [about]
 #: Children_of_Dragons.cfg:42
@@ -661,21 +661,17 @@ msgstr ""
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:12
-#, fuzzy
 msgid ""
 "They had left the caves via an opening which emerged in the middle of a "
 "large mountain range. To the south-west they could see where the mountains "
 "ended and hills, plains and forest began."
 msgstr ""
-"Avevano lasciato le caverne attraverso una caverna che emergeva nel mezzo di "
-"una ampia catena montuosa. A sud-ovest potevano vedere dove le montagne "
-"terminavano e cominciavano le colline, le pianure e le foreste. "
-"L'eccitazione cominciava a serpeggiare nei ranghi intravedendo la "
-"possibilità di essere soli in mezzo a tutto questo."
+"Avevano lasciato le caverne attraverso una apertura che emergeva nel mezzo "
+"di una ampia catena montuosa. A sud-ovest potevano vedere dove le montagne "
+"terminavano e cominciavano le colline, le pianure e le foreste."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:48
-#, fuzzy
 msgid "Defeat enemy leaders; and"
 msgstr "Sconfiggi tutti i comandanti nemici e"
 
@@ -686,7 +682,6 @@ msgstr "Sposta Kahn all'estermità delle montagne"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:144
-#, fuzzy
 msgid ""
 "Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
 "are creatures that inhabit these mountains that will not tolerate our "
@@ -694,8 +689,7 @@ msgid ""
 msgstr ""
 "Bellissimo, vero? Purtroppo non possiamo continuare a rimirare ancora a "
 "lungo. Le creature che abitano queste montagne non tollereranno la nostra "
-"presenza e sicuramente nani e troll ci seguiranno abbastanza presto se non "
-"sono troppo impegnati a combattersi l'uno l'altro."
+"presenza e se nani e troll non ci hanno ancora trovato, lo faranno presto."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:148
@@ -718,21 +712,24 @@ msgid ""
 "Larron, my friend! These creatures are trying to steal our caves. If you "
 "value our trade, please help us destroy them."
 msgstr ""
+"Larron, amico mio! Queste creature stanno cercando di sottrarci le nostre "
+"caverne. Se apprezzi il nostro commercio, per favore aiutaci a distruggerle."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:172
 msgid "We're not interested in your caves!"
-msgstr ""
+msgstr "Le vostre caverne non ci interessano!"
 
 #. [message]: description=Larron
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:176
 msgid "A likely story. Men, kill those things!"
-msgstr ""
+msgstr "Raccontala a un altro. Uomini, uccidiamo questi esseri!"
 
 #. [message]: description=Zuug
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:182
+#, fuzzy
 msgid "Trolls kill humans too. We no care. All go squish under club and fist."
-msgstr ""
+msgstr "Anche troll uccidono uomini."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:253
@@ -745,6 +742,8 @@ msgid ""
 "We can't leave the mountains yet. We must defeat our enemies or they will "
 "continue to follow us."
 msgstr ""
+"Non possiamo ancora lasciare le montagne. Dobbiamo sconfiggere i nostri "
+"nemici oppure continueranno a seguirci."
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
