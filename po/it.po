@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-02 17:42+0200\n"
-"PO-Revision-Date: 2008-04-25 19:20+0100\n"
+"PO-Revision-Date: 2008-04-26 13:16+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -648,7 +648,6 @@ msgstr "Via dalle montagne"
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
-#, fuzzy
 msgid ""
 "As they emerged, blinking, into the sunlight, the drakes felt some "
 "trepidation as to what lay ahead. Nevertheless they were relieved to have "
@@ -727,9 +726,10 @@ msgstr "Raccontala a un altro. Uomini, uccidiamo questi esseri!"
 
 #. [message]: description=Zuug
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:182
-#, fuzzy
 msgid "Trolls kill humans too. We no care. All go squish under club and fist."
-msgstr "Anche troll uccidono uomini."
+msgstr ""
+"Troll uccidono anche uomini. Non importa. Tutti spiaccicati con clave e "
+"pugni."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:253
