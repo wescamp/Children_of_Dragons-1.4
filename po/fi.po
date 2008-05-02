@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-02 17:42+0200\n"
-"PO-Revision-Date: 2008-04-02 17:42+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2008-03-24 21:03+0200\n"
+"Last-Translator: Mikko Nikkilä <miccoh@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr ""
 #. [campaign]
 #: Children_of_Dragons.cfg:7
 msgid "Children of Dragons"
-msgstr ""
+msgstr "Lohikäärmeiden lapset"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:12
@@ -23,51 +23,54 @@ msgid ""
 "all but extinct. But their descendants are just about to make their mark on "
 "the world..."
 msgstr ""
+"Lohikäärmeet, kerran elävien maan pelätyimmät olennot, ovat sukupuuton "
+"partaalla. Mutta heidän jälkikasvunsa on juuri aikeissa tehdä oman jälkensä "
+"maailmaan..."
 
 #. [campaign]
 #: Children_of_Dragons.cfg:14
 msgid "Noble"
-msgstr ""
+msgstr "Aatelinen"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:14
 msgid "Chancellor"
-msgstr ""
+msgstr "Kansleri"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:14
 msgid "Lord"
-msgstr ""
+msgstr "Lordi"
 
 #. [about]
 #: Children_of_Dragons.cfg:17
 msgid "Campaign Developed and Maintained By"
-msgstr ""
+msgstr "Kampanjasuunnittelu ja ylläpito:"
 
 #. [about]
 #: Children_of_Dragons.cfg:23
 msgid "Artwork and Graphics"
-msgstr ""
+msgstr "Taidetyö ja grafiikat"
 
 #. [entry]
 #: Children_of_Dragons.cfg:29
 msgid "Original unit sprites"
-msgstr ""
+msgstr "Alkuperäiset yksikkökuvat."
 
 #. [about]
 #: Children_of_Dragons.cfg:33
 msgid "Maps"
-msgstr ""
+msgstr "Kartat"
 
 #. [about]
 #: Children_of_Dragons.cfg:42
 msgid "Translations"
-msgstr ""
+msgstr "Käännökset"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:4
 msgid "Leader of the Drakes"
-msgstr ""
+msgstr "Draakkien johtaja"
 
 #. [part]
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:8
@@ -78,6 +81,11 @@ msgid ""
 "longer as awe-inspiring or as powerful, but far more numerous and much more "
 "intelligent, have been eking out an existence underground."
 msgstr ""
+"Vuosisatojen ajan mahtavat lohikäärmeet hallitsivat maalla. Mutta niiden "
+"aika on mennyt. Niiden määrä on huvennut ja enää kourallinen on jäljellä, ja "
+"ne säilyvät enimmäkseen legendoina, joihin kukaan ei todella usko. Kuitenkin "
+"niiden jälkeläiset, ei enää yhtä pelottavat eivätkä voimakkaat, mutta hyvin "
+"paljon lukuisammat ja älykkäämmät, ovat olemassa maan alla."
 
 #. [part]
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:12
@@ -88,12 +96,17 @@ msgid ""
 "Drake race should head, but only one will get the chance to put their ideas "
 "into action..."
 msgstr ""
+"Nyt, heidän pitkäaikaisen johtajansa kuollessa, uuden sukupolven on aika "
+"ottaa ohjakset. Monien haasteiden kautta esiin on noussut kolme "
+"potentiaalista johtajaa. Kaikilla on eri mielipiteet siitä, mihin suuntaa "
+"draakkien kansan tulisi lähteä, mutta vain yksi saa mahdollisuuden toteuttaa "
+"aikeensa..."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:32
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:29
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Kukista kaikki vihollisjohtajat."
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:56
@@ -113,7 +126,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:613
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:33
 msgid "Death of Kahn"
-msgstr ""
+msgstr "Kahnin kuolema"
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:64
@@ -131,7 +144,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:249
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37
 msgid "Turns run out"
-msgstr ""
+msgstr "Vuorot loppuvat"
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:94
@@ -141,32 +154,36 @@ msgid ""
 "alive, and the leadership of the Drakes is yours. If you wish to rescind "
 "your claim to lead us, now is your final chance."
 msgstr ""
+"Rotumme kunnioitetussa perinteessä taistelu johtajuudesta tullaan "
+"taistelemaan täällä. Säännöt ovat hyvin yksinkertaiset: ole viimeinen "
+"osallistuja hengissä ja draakkien johtajuus on sinun. Jos tahdot pitäytyä "
+"vaatimuksessasi johtaa meitä, nyt on viimeinen mahdollisuutesi."
 
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:98
 msgid "There is complete silence."
-msgstr ""
+msgstr "Täällä on täydellinen hiljaisuus."
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:103
 msgid "Very well. Let the battle commence!"
-msgstr ""
+msgstr "Hyvä on. Taistelu alkakoon!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:115
 msgid ""
 "So it has finally come to this. The leadership of the Drakes will be mine."
-msgstr ""
+msgstr "Viihdoinkin. Draakkien johtajuus tulee olemaan minun."
 
 #. [message]: description=Garaag
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:119
 msgid "Hah! In your dreams, softbelly. The leadership is mine."
-msgstr ""
+msgstr "Hah! Unissasi, pehmo. Minusta tulee johtaja."
 
 #. [message]: description=Verk
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:123
 msgid "Enough bickering! Let us begin."
-msgstr ""
+msgstr "Tarpeeksi kinastelua! Aloitetaan."
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:141
@@ -174,37 +191,41 @@ msgid ""
 "What? There is still no winner after the allotted time? It seems none of you "
 "are worthy to lead us after all."
 msgstr ""
+"Mitä? Meillä ei ole voittajaa näin pitkän ajan jälkeen? Näyttää siltä, ettei "
+"teistä kukaan ole tarpeeksi arvokas johtamaan meitä."
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:159
 msgid "All hail our new leader, Kahn!"
-msgstr ""
+msgstr "Eläköön uusi johtajamme, Kahn!"
 
 #. [message]: description=Garaag
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:169
 msgid "Bah! The Drakes are doomed."
-msgstr ""
+msgstr "Pah! Draakit on tuomittuja."
 
 #. [message]: description=Verk
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:183
 msgid "Ah. It seems I was overly ambitious."
-msgstr ""
+msgstr "Ah. Vaikuttaa siltä, että olin liian kunnianhimoinen."
 
 #. [message]: description=Garaag
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:193
 msgid ""
 "Too right you were. Only I have the steel required to lead the mighty Drakes."
 msgstr ""
+"Liian oikeassa olit. Vain minussa on tarvittavaa terästä mahtavien draakkien "
+"johtamiseen."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:197
 msgid "We'll see about that."
-msgstr ""
+msgstr "Se nähdään."
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:4
 msgid "Drake Council"
-msgstr ""
+msgstr "Draakkineuvosto"
 
 #. [part]
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:8
@@ -212,6 +233,8 @@ msgid ""
 "Having asserted his right to lead the Drakes, the time had now come for Kahn "
 "to convince his people of his somewhat radical plans."
 msgstr ""
+"Hankittuaan oikeutensa johtaa draakkeja, Kahnille on nyt tullut aika "
+"vakuuttaa kansansa hänen jokseenkin radikaaleista suunnitelmistaan."
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:148
@@ -220,31 +243,34 @@ msgid ""
 "leader you are now also the head of this council, though there is little you "
 "can do without the approval of the majority of the council."
 msgstr ""
+"Kutsun kokoon Draakkineuvoston tapaamisen. Tervetuloa, Kahn. Johtajanamme "
+"olet nyt myös neuvoston päällikkö, vaikket paljoa voikaan tehdä ilman "
+"neuvoston enemmistön hyväksyntää."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:152
 msgid "Thank you. It is indeed an honour to serve the Drakes in this capacity."
-msgstr ""
+msgstr "Kiitos. Tällä tavoin on tosiaan kunnia palvella draakkeja."
 
 #. [message]: description=Derk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:156
 msgid "We believe you have some rather, uh, drastic plans, Kahn."
-msgstr ""
+msgstr "Uskomme sinulla olevan melko, uh, rajuja suunnitelmia, Kahn."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:160
 msgid "You could say that."
-msgstr ""
+msgstr "Niin voisi sanoa."
 
 #. [message]: description=Flerk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:164
 msgid "Then I think you should share them."
-msgstr ""
+msgstr "Siinä tapauksessa luulen, että sinun pitäisi jakaa ne."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:168
 msgid "I couldn't agree more."
-msgstr ""
+msgstr "En voisi olla enempää samaa mieltä."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:172
@@ -256,11 +282,18 @@ msgid ""
 "we encounter from time to time. We cannot move quickly, except where we have "
 "paved the cave floors such as in this cavern."
 msgstr ""
+"Arvoisat neuvoston jäsenet, kansamme on polveutunut mahtavista "
+"lohikäärmeistä, jotka kerran hallitsivat maalla ja ilmassa. Vuosisatoja "
+"olemme piileskelleet maan alla, emmekä oikeastaan koskaan hyväksyneet "
+"jokapäiväisiä olosuhteitamme. Taisteleminen maan alla ei sovi meille niin "
+"kuin peikoille ja kääpiöille, joita tapaamme ajoittain. Emme voi liikkua "
+"nopeasti paitsi paikoissa, joiden lattian olemme laatoittaneet, kuten tässä "
+"luolassa."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:176
 msgid "Friends, we do not belong here. We -"
-msgstr ""
+msgstr "Ystäväiseni, emme kuulu tänne. Me –"
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:180
@@ -268,11 +301,13 @@ msgid ""
 "We have, as you say, lived here for centuries. How can you claim we do not "
 "belong?"
 msgstr ""
+"Me olemme, kuten sanot, eläneet täällä vuosisatoja. Kuinka voit väittää, "
+"ettemme kuuluisi tänne?"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:184
 msgid "Hear him out, Gakk."
-msgstr ""
+msgstr "Anna hänen puhua, Gakk."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:188
@@ -282,6 +317,10 @@ msgid ""
 "come for us to make some drastic changes. I plan to lead the Drakes above "
 "ground."
 msgstr ""
+"Kuten sanoin, kärsimme maan alla. Tämän lisäksi olemme lisääntyneet ja "
+"vahvistuneet. Mutta jos aiomme jatkaa vaurastumista, uskon, että on tullut "
+"aika tehdä joitakin suuria muutoksia. Suunnittelen johtavani draakit maan "
+"yläpuolelle."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:192
@@ -289,16 +328,19 @@ msgid ""
 "Surely you cannot be serious. We know these caves - we know what to expect, "
 "we know how to survive. We know nothing about the world above ground."
 msgstr ""
+"Et tietenkään voi olla tosissasi. Tunnemme nämä luolat, tiedämme mitä "
+"odottaa, tiedämme kuinka selvitä. Emme tiedä mitään maanpäällisestä "
+"maailmasta."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:196
 msgid "If I may, that is not strictly true."
-msgstr ""
+msgstr "Jos saan keskeyttää... Se ei ole tarkkaanottaen totta."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:200
 msgid "Explain."
-msgstr ""
+msgstr "Selitä."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:204
@@ -308,6 +350,11 @@ msgid ""
 "do so underground. We have long dreamt that a day would come when we would "
 "be able to live there permanently. We cannot dismiss such an opportunity."
 msgstr ""
+"Viimeisten kahden sukupolven ajan muutamat klaanini jäsenet ovat tehneet "
+"lyhyitä retkiä maanpäälle. Meidät on luotu lentämään, mutta meillä on huonot "
+"mahdollisuudet tehdä sitä maan alla. Kauan olemme uneksineet päivästä, "
+"jolloin meillä olisi mahdollisuus asua siellä pysyvästi. Emme voi hylätä "
+"tällaista tilaisuutta."
 
 #. [message]: description=Derk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:208
@@ -316,6 +363,9 @@ msgid ""
 "dwarves - have been attacking more and more frequently. Something must be "
 "done if we are to survive."
 msgstr ""
+"En voi muuta kuin olla samaa mieltä. Lähivuosina peikot – ja jopa kääpiöt – "
+"ovat hyökänneet yhä säännöllisemmin. Jotakin täytyy tehdä, jos aiomme "
+"selviytyä."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:212
@@ -328,6 +378,13 @@ msgid ""
 "we go? Who knows what manner of creatures occupy the land we would be "
 "attempting to settle."
 msgstr ""
+"En voi uskoa kuuntelevani tällaista! Sanot olevasi samaa mieltä tästä "
+"naurettavasta ideasta? Se on hulluutta! Vaikka tietäisimmekin hiukan näiden "
+"luolien ulkopuolisesta maailmasta, pelkästään sinne pääseminen olisi "
+"mammutintehtävä. Parin draakin lentäminen ulos silloin tällöin on asia "
+"erikseen, mutta että meidän kaikkien lähteminen? Niin ei voi tehdä. Ja "
+"vaikka pääsisimmekin ulos, minne menisimme? Kuka tietää sen maan olentojen "
+"tavoista, jonne aiomme asettua?"
 
 #. [message]: description=Stakron
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:216
@@ -336,6 +393,9 @@ msgid ""
 "have raised, I simply do not think it is practical to attempt such a huge "
 "undertaking."
 msgstr ""
+"Minun on oltava samaa mieltä, Gakk. Vaikka ymmärrän asiat, jotka kollegani "
+"ovat nostaneet esille, en yksinkertaisesti usko olevan tarkoituksenmukaista "
+"yrittää näin valtavaa toimenpidettä."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:220
@@ -344,11 +404,14 @@ msgid ""
 "opposition here. We must seek new lands. And above ground is the best place "
 "to look."
 msgstr ""
+"Mutta mikä on vaihtoehto? Kuten Derk sanoi, meillä on yhä enemmän "
+"vastustusta täällä. Meidän on etsittävä uusia maita. Ja paras paikka etsiä "
+"on maan päällä."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:224
 msgid "At least we know the opposition here."
-msgstr ""
+msgstr "Ainakin tunnemme täällä olevat vastustajat."
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:228
@@ -359,32 +422,40 @@ msgid ""
 "agree to it. And so, we vote. We begin to my left, with Derk. How do you "
 "cast your vote?"
 msgstr ""
+"No niin, näyttää siltä, että meidän on ratkaistava asia äänestämällä. Kahn, "
+"kuten tiedät, tämän asteen päätöksiä ei voida ottaa kevyesti. Ja niin, se on "
+"hyväksyttävä äänten enemmistöllä. Se tarkoittaa, että vähintään neljän "
+"kuudesta neuvoston jäsenestä on oltava samaa mieltä. Siis äänestetään. "
+"Aloitamme vasemmalta puoleltani. Derk, kuinka äänesi käytät?"
 
 #. [message]: description=Derk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:232
 msgid "I vote we follow Kahn above ground."
-msgstr ""
+msgstr "Äänestään, että seuraamme Kahnia maan päälle."
 
 #. [message]: description=Stakron
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:236
 msgid "I say we stay."
-msgstr ""
+msgstr "Minä sanon, että jäädään tänne."
 
 #. [message]: description=Flerk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:240
 msgid "I agree with Freon - we must do something. I vote we go."
 msgstr ""
+"Olen samaa mieltä kuin Freon – meidän on tehtävä jotakin. Äänestän lähdön "
+"puolesta."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:244
 msgid "I long to soar in the sky with my brethren. We go."
-msgstr ""
+msgstr "Kaipaan taivaalle liitelemään veljieni kanssa. Me menemme."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:248
 msgid ""
 "I maintain that this idea is ridiculous. I cannot support it. We must stay."
 msgstr ""
+"Minusta tämä ajatus on naurettava. En voi tukea sitä. Meidän on jäätävä."
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:252
@@ -394,6 +465,10 @@ msgid ""
 "reservations, I believe it is time to move on. We follow Kahn out of the "
 "caves."
 msgstr ""
+"Huolimatta tuntemattoman vaaroista, myös minä uskon, ettemme voi jatkaa "
+"peikkojen ja kääpiöiden pitämistä loitolla loputtomiin. Vaikka minulla on "
+"joitakin ennakkoluuloja, luulen nyt olevan aika lähteä liikkeelle. Seuraamme "
+"Kahnia ulos luolista."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:256
@@ -401,6 +476,8 @@ msgid ""
 "It is decided then. Gakk, Stakron - I appreciate your concerns, but I "
 "believe this is best for our people."
 msgstr ""
+"Se on sitten päätetty. Gakk, Stakron, kunnioitan mielipiteitänne, mutta "
+"luulen tämän olevan parasta kansallemme."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:260
@@ -408,6 +485,8 @@ msgid ""
 "I am afraid I cannot support this move. I will come with you if we leave, "
 "but do not expect my help!"
 msgstr ""
+"Pelkään, etten voi tukea tätä muutosta. Tulen mukaanne, jos lähdemme, mutta "
+"älkää odottako apuani!"
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:272
@@ -415,11 +494,13 @@ msgid ""
 "This does not bode well. Nonetheless, the decision is made. We begin "
 "preparations immediately."
 msgstr ""
+"Tämä ei enteile hyvää. Joka tapauksessa päätös on tehty. Aloitamme "
+"valmistelut välittömästi. "
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:4
 msgid "The Emerging"
-msgstr ""
+msgstr "Ulostulo"
 
 #. [part]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:8
@@ -431,6 +512,12 @@ msgid ""
 "through the caves. Still, they wondered if this new land was going to be any "
 "better than the one they were leaving behind."
 msgstr ""
+"Kuukausien valmistelujen jälkeen draakit jättävät kotinsa ja seuraavat "
+"Kahnia kohti uutta asuinpaikkaa – missä ikinä se sitten onkaan. Enimmäkseen "
+"he kannattivat suunnitelmaa. Lähes jokainen perhe oli menettänyt jonkun "
+"lähiaikojen hyökkäyksissä, eikä kukaan pitänyt, kun luolien läpi ei voinut "
+"liikkua nopeasti. Kuitenkin he ihmettelivät tulisiko tämä uusi maa olemaan "
+"yhtään parempi kuin se, jota he olivat jättämässä taakseen."
 
 #. [part]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:12
@@ -439,16 +526,20 @@ msgid ""
 "suicide to remain in the caves with the majority of the drakes gone, so they "
 "tagged along."
 msgstr ""
+"Silti he seurasivat johtajaansa. Muutama murisi vastaan, mutta olisi "
+"itsemurha pysyä luolissa, kun suurin osa draakeista olisi lähtenyt, joten he "
+"lähtivät matkaan."
 
 #. [part]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:15
 msgid "After two weeks of uneventful travel, they felt a breeze..."
 msgstr ""
+"Kaksi viikkoa ilman tapahtumia matkattuaan he tunsivat tuulenhenkäyksen..."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:32
 msgid "Kahn must reach the exit"
-msgstr ""
+msgstr "Kahnin on päästävä ulos"
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:60
@@ -466,7 +557,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:46
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:617
 msgid "Death of Freon"
-msgstr ""
+msgstr "Freonin kuolema"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:99
@@ -475,6 +566,9 @@ msgid ""
 "The exit to the caves is not far from here, but the dwarves and trolls are "
 "both close. Let us hope they do not notice us."
 msgstr ""
+"Tämä on uloin linnoituksemme, vaikkei sitä olekaan vähään aikaan käytetty. "
+"Ulospääsy luolista ei ole kaukana täältä, mutta sekä kääpiöt että peikot "
+"ovat lähellä. Toivotaan, etteivät he huomaa meitä."
 
 #. [message]: description=Bildor
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:103
@@ -482,6 +576,8 @@ msgid ""
 "Too late, lizard. What do you mean by trying to drag your sorry hides "
 "through our caves?"
 msgstr ""
+"Liian myöhäistä, lisko. Mitä tarkoitat yrittämällä raahata surkeat nahkanne "
+"luoliemme läpi?"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:107
@@ -489,6 +585,8 @@ msgid ""
 "We mean no disrespect, dwarf. We are leaving the caves - you should be glad "
 "of our absence."
 msgstr ""
+"Emme tarkoita olla epäkunnioittavia, kääpiö. Olemme poistumassa luolista – "
+"teidän pitäisi olla iloisia poissaolostamme."
 
 #. [message]: description=Bildor
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:111
@@ -496,6 +594,8 @@ msgid ""
 "Why would anyone want to leave the caves? I don't believe you - you intend "
 "to try to take our caves for yourselves! Well, not on my watch!"
 msgstr ""
+"Miksi kukaan tahtoisi poistua luolista? En usko teitä – aiotte yrittää "
+"kaapata luolamme itsellenne! Ei minun vahtivuorollani!"
 
 #. [message]: description=Ungh
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:115
@@ -503,6 +603,8 @@ msgid ""
 "Ungh no like lizards in trolls' caves. Ungh no like dwarves either. Trolls "
 "kill all."
 msgstr ""
+"Ungh ei pidä liskoista peikkojen luolissa. Ungh ei pidä kääpiöistäkään. "
+"Peikot tappavat kaikki."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:119
@@ -510,36 +612,38 @@ msgid ""
 "Looks like we're going to have to fight our way through. Still, this was not "
 "unexpected. To arms!"
 msgstr ""
+"Vaikuttaa siltä, että meidän on taisteltava tiemme läpi. No, se oli "
+"odotettavissa. Aseisiin!"
 
 #. [message]: description=Ungh
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:129
 msgid "That not good. Strange too. Ungh never die before."
-msgstr ""
+msgstr "Tämä ei hyvä. Omituista myös. Ungh ei koskaan ennen ole kuollut."
 
 #. [message]: description=Bildor
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:139
 msgid "I have failed! Now our caves will be overrun with lizards!"
-msgstr ""
+msgstr "Olen epäonnistunut! Nyt luolamme täyttyy liskoista!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:143
 msgid "Poor fool."
-msgstr ""
+msgstr "Kurja typerys."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:150
 msgid "It seems we will be stuck in these caves forever."
-msgstr ""
+msgstr "Vaukuttaa siltä, että olemme jääneet ikiajoiksi jumiin näihin luoliin."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:166
 msgid "I can see the sunlight! Come, my people - welcome to your new home!"
-msgstr ""
+msgstr "Näen auringonvalon! Tulkaa, kansani – tervetuloa uuteen kotiinne!"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:4
 msgid "Leaving the Mountains"
-msgstr ""
+msgstr "Vuoret jäävät taakse"
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
@@ -548,6 +652,9 @@ msgid ""
 "trepidation as to what lay ahead. Nevertheless they were relieved to have "
 "escaped the caves, and awestruck by what they now saw."
 msgstr ""
+"Astuessaan ulos auringonvaloon draakit tunsivat jonkinlaista pelkoa edessä "
+"olevaa kohtaa. Siitä huolimatta he olivat helpottuneita paettuaan luolista "
+"ja peloissaan siitä mitä he nyt näkivät."
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:12
@@ -556,16 +663,19 @@ msgid ""
 "large mountain range. To the south-west they could see where the mountains "
 "ended and hills, plains and forest began."
 msgstr ""
+"He olivat lähteneet luolista aukosta, joka oli keskellä suurta vuorijonoa. "
+"Lounaassa he pystyivät näkemään vuorten loppuvan ja kukkuloiden, tasankojen "
+"sekä metsän alkavan."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:48
 msgid "Defeat enemy leaders; and"
-msgstr ""
+msgstr "Kukista vihollisjohtajat; ja"
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:52
 msgid "Get Kahn to the end of the mountains"
-msgstr ""
+msgstr "Vie Kahn vuorten päähän"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:144
@@ -574,21 +684,25 @@ msgid ""
 "are creatures that inhabit these mountains that will not tolerate our "
 "presence, and if the dwarves and trolls haven't found us yet, they soon will."
 msgstr ""
+"Kaunista, eikö? Ikävä kyllä emme voi jäädä ihailemaan liian pitkäksi aikaa. "
+"Täällä on näillä vuorilla asustavia olentoja, jotka eivät arvosta "
+"läsnäoloamme, ja jos kääpiöt ja peikot eivät vielä ole löytäneet meitä, pian "
+"he löytävät."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:148
 msgid "Then we must get out of these mountains quickly."
-msgstr ""
+msgstr "Sitten meidän on päästävä näiltä vuorilta nopeasti."
 
 #. [message]: description=Augthais
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:156
 msgid "There they are, boys! Let's get them!"
-msgstr ""
+msgstr "Tuolla ne ovat, pojat! Otetaan ne kiinni!"
 
 #. [message]: description=Zuug
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:162
 msgid "Dwarves and lizards in mountains. Trolls kill all!"
-msgstr ""
+msgstr "Kääpiöitä ja liskoja vuorilla. Peikot tappavat kaikki!"
 
 #. [message]: description=Augthais
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:168
@@ -596,26 +710,30 @@ msgid ""
 "Larron, my friend! These creatures are trying to steal our caves. If you "
 "value our trade, please help us destroy them."
 msgstr ""
+"Larron, ystäväiseni! Nämä olennet aikovat varastaa luolamme. Jos pidätte "
+"meitä arvossa, pyydän, auttakaa meitä kukistamaan ne."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:172
 msgid "We're not interested in your caves!"
-msgstr ""
+msgstr "Emme ole kiinnostuneita luolistanne!"
 
 #. [message]: description=Larron
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:176
 msgid "A likely story. Men, kill those things!"
-msgstr ""
+msgstr "Uskottava tarina. Miehet, tappakaa nuo jutut!"
 
 #. [message]: description=Zuug
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:182
 msgid "Trolls kill humans too. We no care. All go squish under club and fist."
 msgstr ""
+"Peikot tappavat ihmisiä myös! Me emme välitä. Kaikki litistyy nuijan ja "
+"nyrkin alla."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:253
 msgid "We made it!"
-msgstr ""
+msgstr "Teimme sen!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:263
@@ -623,11 +741,13 @@ msgid ""
 "We can't leave the mountains yet. We must defeat our enemies or they will "
 "continue to follow us."
 msgstr ""
+"Emme voi vielä jättää näitä vuoria. Meidän on kukistettava vihollisemme tai "
+"ne jatkavat seuraamistamme."
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
 msgid "Dark Forest"
-msgstr ""
+msgstr "Pimeä metsä"
 
 #. [part]
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:8
@@ -636,12 +756,15 @@ msgid ""
 "so close together that despite it being morning, very little sunlight "
 "reached the forest floor."
 msgstr ""
+"Lähdettyään kukkuloilta he löytävät itsensä tiheästä metsästä. Puut olivat "
+"niin tiheästi yhdessä, että vaikka oli aamu, hyvin vähän auringonvaloa pääsi "
+"maahan asti."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:33
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:237
 msgid "Reach the end of the forest"
-msgstr ""
+msgstr "Saavuta metsän loppu"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:116
@@ -650,16 +773,20 @@ msgid ""
 "we always went straight over it. However in this case we have no choice but "
 "to go through it. We must be careful."
 msgstr ""
+"Emme koskaan ole astuneet tähän metsään. Se vaikutti liian pimeältä ja pahaa "
+"enteilevältä, joten menimme aina suoraan sen yli. Kuitenkin tässä "
+"tapauksessa meillä ei ole muuta vaihtoehtoa kuin mennä sen läpi. Meidän on "
+"oltava varovaisia."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:120
 msgid "How bad can it be?"
-msgstr ""
+msgstr "Kuinka se voi olla?"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:136
 msgid "What was that?"
-msgstr ""
+msgstr "Mikä se oli?"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:140
@@ -667,21 +794,23 @@ msgid ""
 "I don't know, but it didn't sound good. Let's get through this forest as "
 "soon as possible. From memory, it will be quickest to head south."
 msgstr ""
+"En tiedä, mutta se ei kuulosta hyvältä. Kuljetaan tämän metsän läpi niin "
+"nopeasti kuin mahdollista. Muistaakseni nopein tapa on edetä pohjoiseen."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:195
 msgid "I never want to see another tree in my entire life."
-msgstr ""
+msgstr "En enää koskaan halua nähdä yhtään puuta."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:204
 msgid "We cannot leave yet - the undead are not defeated!"
-msgstr ""
+msgstr "Emme voi lähteä vielä – epä kuolleita ei ole lyöty!"
 
 #. [message]: speaker=second_unit
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:220
 msgid "The forest is crawling with undead!"
-msgstr ""
+msgstr "Metsä vilisee epäkuolleita!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:224
@@ -689,6 +818,8 @@ msgid ""
 "I do not like the idea of living near undead. Perhaps we should clear this "
 "forest of its current inhabitants first."
 msgstr ""
+"En pidä ajatuksesta asua lähellä epäkuolleita. Ehkäpä meidän ensin pitäisi "
+"puhdistaa tämä metsä sen nykyisistä asukkaista."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:228
@@ -696,16 +827,18 @@ msgid ""
 "Yes, I think you are right. Let's destroy the undead, else they may attack "
 "us while we try and build our new homes."
 msgstr ""
+"Kyllä. Luulen, että olet oikeassa. Kukistetaan epäkuolleet tai ne voivat "
+"hyökätä kimppuumme sillä aikaa kun olemme rakentamassa uusia kotejamme."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:233
 msgid "Defeat enemy leaders, and;"
-msgstr ""
+msgstr "Kukista vihollisjohtajat; ja"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
 msgid "The Humans"
-msgstr ""
+msgstr "Ihmiset"
 
 #. [part]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:8
@@ -714,18 +847,21 @@ msgid ""
 "saw an expanse of grassland. But dotted across it were towns of varying "
 "sizes. And immediately before them was a huge city."
 msgstr ""
+"Poistuessaan metsästä, jättäen epäkuolleet taakseen, draakit näkivät "
+"ruohomaiden lakeuden. Siellä täällä oli eri kokoisia kyliä ja aivan heidän "
+"edessään oli valtava kaupunki"
 
 #. [part]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:12
 msgid ""
 "Wondering if it had been a mistake to leave the caves in the first place, "
 "they advanced cautiously."
-msgstr ""
+msgstr "Ihmetellen oliko virhe lähteä luolista he etenivät varovaisesti."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:50
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "Seis! Kuka siellä?"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:54
@@ -733,11 +869,13 @@ msgid ""
 "I am Kahn, leader of the Drakes. We have left our homes underground in "
 "search of a land more suited to our kind."
 msgstr ""
+"Olen Kahn, draakkien johtaja. Lähdimme maanalaisista kodeistamme etsimään "
+"meille paremmin sopivaa maata."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:58
 msgid "And you thought you'd take ours?"
-msgstr ""
+msgstr "Ja ajattelitte ottaa meidän?"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:62
@@ -745,6 +883,8 @@ msgid ""
 "No! We do not wish to take anyone's land, but are instead hoping to find "
 "some space that is currently unoccupied that we can settle in."
 msgstr ""
+"Ei! Emme tahdo ottaa kenenkään maata, mutta sen sijaan toivomme löytävämme "
+"nykyisin miehittämätöntä aluetta, jonne voisimme asettua."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:66
@@ -753,11 +893,13 @@ msgid ""
 "There is little free space - certainly none anywhere near big enough to fit "
 "your entire race."
 msgstr ""
+"Hmmm. No, kuten näet, maat täällä päin on asutettu jo. Ei ole paljonkaan "
+"vapaata tilaa – lähimain ei varmastikaan tarpeeksi koko rodullenne."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:70
 msgid "If you speak true, then I fear we have left our homes in vain."
-msgstr ""
+msgstr "Jos puhut totta, niin pelkään meidän lähteneen kodeistamme turhaan."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:74
@@ -766,6 +908,9 @@ msgid ""
 "as Morogor. It is uninhabited, though some say it is haunted. I believe it "
 "would be suitable for your needs."
 msgstr ""
+"Ehkei. Jokin matka täältä itään on Morogorina tunnettu trooppinen saari. Se "
+"on asumaton, vaikka jotkut sanovatkin sen olevan riivattu. Luulen sen olevan "
+"sopiva tarpeillenne."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:78
@@ -773,6 +918,8 @@ msgid ""
 "An island, you say? That sounds ideal, but we cannot fly that far. How are "
 "we to get there?"
 msgstr ""
+"Saari, sanoit? Kuulostaa ideaaliselta, mutta emme voi lentää niin kauas. "
+"Kuinka pääsisimme sinne?"
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:82
@@ -781,11 +928,14 @@ msgid ""
 "transport all of your people, but I cannot offer you our assistance without "
 "you doing something for us in return."
 msgstr ""
+"Ehkä voisimme päästä sopimukseen. Meillä on suuri laivasto – tarpeeksi "
+"kuljettamaan koko kansasi – mutten voi tarjota teille apua ilman, että "
+"tekisitte jotakin meille vastapalvelukseksi."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:86
 msgid "What did you have in mind?"
-msgstr ""
+msgstr "Mitä sinulla on mielessäsi?"
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:90
@@ -795,11 +945,15 @@ msgid ""
 "south east of here who have been troubling us of late. Defeat these bandits "
 "for us, and we will transport you to Morogor."
 msgstr ""
+"Tiedustelijani raportoivat, että tulitte Vainajien metsästä. Pystyäksenne "
+"siihen teidän täytyy olla kyvykkäitä taistelijoita. Suuri ryhmä bandiitteja "
+"täältä kaakkoon on tuottanut meille hankaluuksia viime aikoina. Tuhotkaa "
+"nämä bandiitit meidän puolestamme, niin kuljetamme teidän Morogoriin."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:94
 msgid "Very well. We have a deal."
-msgstr ""
+msgstr "Hyvä on. Meillä on sopimus."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:98
@@ -807,42 +961,46 @@ msgid ""
 "I will order our navy to begin preparations at once. We should be ready to "
 "depart by the time you return."
 msgstr ""
+"Määrään laivastomme aloittamaan valmistelut heti paikalla. Meidän pitäisi "
+"olla valmiina kun palaatte."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:102
 msgid "Thank you. We are in your debt."
-msgstr ""
+msgstr "Kiitos. Olemme sinulle velkaa."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:106
 msgid "Defeat the bandits and I will consider the debt paid in full."
-msgstr ""
+msgstr "Päihitä bandiitit, niin katson velkanne täysimääräisenä maksetuksi."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:110
 msgid ""
 "Thank you once again. Come, my people - we have some criminals to catch!"
 msgstr ""
+"Kiitos taas. Tulkaa, kansani – meillä on hieman kriminaaleja "
+"kiinniotettavina!"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:4
 msgid "Bandits"
-msgstr ""
+msgstr "Bandiitit"
 
 #. [part]
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:8
 msgid "Following Alamar's directions, the Drakes soon came to a huge forest."
-msgstr ""
+msgstr "Seuraten Alamarin ohjeita draakit tulivat pian valtavaan metsään."
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:44
 msgid "Death of Tumabulindrum"
-msgstr ""
+msgstr "Tumabulindrumin kuolema"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:133
 msgid "Ugh. More trees."
-msgstr ""
+msgstr "Ugh. Lisää puita."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:137
@@ -850,6 +1008,8 @@ msgid ""
 "At least they are not as thick as the last lot. We will be able to see where "
 "we are going here."
 msgstr ""
+"Ainakaan ne eivät kasva niin tiheään kuin viimeksi. Täällä sentään näemme "
+"minne olemme menossa."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:141
@@ -857,36 +1017,40 @@ msgid ""
 "And our enemies this time are flesh and blood, not undead. Still, I wish "
 "there was another way."
 msgstr ""
+"Ja tällä kertaa vihollisemme ovat lihaa ja verta, eivät epäkuolleita. Mutta "
+"silti toivoisin, että olisi toinenkin tie."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:145
 msgid "None come to mind."
-msgstr ""
+msgstr "Mitään ei tule mieleen."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:149
 msgid "No, this is our best hope. Let's clear these woods!"
-msgstr ""
+msgstr "Ei, tämä on paras toivomme. Puhdistetaan nämä metsät!"
 
 #. [message]: description=Tumabulindrum
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:153
 msgid "Hmmm. What do the fire breathers want?"
-msgstr ""
+msgstr "Hmmm. Mitä tulensyöksijät haluavat?"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:157
 msgid "Did that tree just talk?"
-msgstr ""
+msgstr "Puhuiko tuo puu?"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:161
 msgid "I have heard of such things. We had best answer quickly."
-msgstr ""
+msgstr "Olen kuullut sellaisista jutuista. Meidän on parasta vastata nopeasti."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:165
 msgid "We come to rid these woods of the outlaws that hide here."
 msgstr ""
+"Olemme tulleet hankkiutumaan eroon lainsuojattomista, jotka piileskelevät "
+"näissä metsissä."
 
 #. [message]: description=Tumabulindrum
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:169
@@ -894,6 +1058,8 @@ msgid ""
 "Very well. These outlaws, as you call them, have destroyed many a good tree. "
 "We will help you, but make sure you keep your fires away from us."
 msgstr ""
+"Hyvä on. Nämä lainsuojattomat, kuten heitä kutsut, ovat tuhonneet monta "
+"hyvää puuta. Autamme teitä, mutta pitäkää liekkinne poissa lähettyviltämme."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:173
@@ -901,43 +1067,46 @@ msgid ""
 "We would be glad of your help. We have no wish to harm you with our flames, "
 "and once the outlaws are gone, we will leave you in peace."
 msgstr ""
+"Olisimme iloisia avustanne. Meillä ei ole aikomustakaan vahingoittaa teitä "
+"liekeillämme, ja heti kun lainsuojattomat ovat poissa, jätämme teidät "
+"rauhaan."
 
 #. [message]: description=Tumabulindrum
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:177
 msgid "Then let us work together to clean this forest!"
-msgstr ""
+msgstr "Siinä tapauksessa työskennelkäämme yhdessä puhdistaaksemme tämä metsä!"
 
 #. [message]: speaker=unit
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:195
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:217
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:239
 msgid "I found some of their ill-gotten gains!"
-msgstr ""
+msgstr "Löysin joitakin heidän vääryydellä hankitusta omaisuudestaan!"
 
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:199
 msgid "You retrieve 75 gold."
-msgstr ""
+msgstr "Löydät 75 kultapalaa."
 
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:221
 msgid "You retrieve 100 gold."
-msgstr ""
+msgstr "Löydät 100 kultapalaa."
 
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:243
 msgid "You retrieve 50 gold."
-msgstr ""
+msgstr "Löydät 50 kultapalaa."
 
 #. [message]: description=Tumabulindrum
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:259
 msgid "And so the Wose pass from the land of the living..."
-msgstr ""
+msgstr "Ja niin puupaimen poistuu elävien mailta..."
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:4
 msgid "To the Ships"
-msgstr ""
+msgstr "Laivoille"
 
 #. [part]
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:8
@@ -945,6 +1114,8 @@ msgid ""
 "Having defeated the bandits, the Drakes left the Wose in peace and returned "
 "to Alamar."
 msgstr ""
+"Lyötyään bandiitit, draakit jättivät puupaimenen rauhaan ja palasivat "
+"Alamarin luokse."
 
 #. [part]
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:12
@@ -952,36 +1123,38 @@ msgid ""
 "Alamar informed them that the ships were ready and waiting at the docks, "
 "south of the city."
 msgstr ""
+"Alamar kertoi heille, että laivat olivat valmiina ja odottivat satamissa, "
+"kaupungin eteläpuolella."
 
 #. [part]
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:15
 msgid "Unfortunately that was not all that awaited them."
-msgstr ""
+msgstr "Ikävä kyllä siinä ei ollut kaikki mikä heitä odotti."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:38
 msgid "Defeat Gakk and Stakron"
-msgstr ""
+msgstr "Kukista Gakk ja Stakeron"
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:119
 msgid "As you can see, the ships are ready and wai-"
-msgstr ""
+msgstr "Kuten näet, laivat ovat valmiina ja odot–"
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:123
 msgid "You will not be going anywhere."
-msgstr ""
+msgstr "Sinä et ole menossa mihinkään."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:127
 msgid "What's going on here? Who are you?"
-msgstr ""
+msgstr "Mitä täällä on tekeillä? Kuka olet?"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:131
 msgid "Gakk? What do you think you're doing?"
-msgstr ""
+msgstr "Gakk? Mitä sinä luulet tekeväsi?"
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:135
@@ -990,6 +1163,9 @@ msgid ""
 "leave our homes, forcing us into confrontation with dwarves, trolls and "
 "undead. But to make a pact with these humans ... "
 msgstr ""
+"Lopetamme tämän hulluuden tähän. Oli tarpeeksi paha juttu lähteä "
+"kodeistamme, pakottaa meidät tekemisiin kääpiöiden, peikkojen ja "
+"epäkuolleiden kanssa. Mutta tehdä sopimus täiden ihmisten kanssa..."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:139
@@ -999,6 +1175,11 @@ msgid ""
 "who knows what manner of creatures will be there to ensure we do not "
 "survive? Better we finish this now, and return to the caves where we belong."
 msgstr ""
+"Ja päätyä mihin? Että he voivat lähettää meidät pois merellä ja hukuttaa "
+"meidät kaikki, mitä todennäköisimmin! Ja vaikka se saari olisikin olemassa, "
+"ja jos tosiaan pääsemme sinne, kuka tietää minkäsorttisia olentoja siellä on "
+"varmistamassa, ettemme selviydy? Parempi lopettaa tämä nyt ja palata "
+"luoliin, jonne me kuulumme."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:143
@@ -1006,21 +1187,23 @@ msgid ""
 "Whatever else we may do, we cannot return to the caves. They will certainly "
 "have been overrun with dwarves and trolls by now."
 msgstr ""
+"Kaikesta mitä voimmekaan tehdä, me emme voi palata luoliin. Ne on "
+"luultavasti täynnä kääpiöitä ja peikkoja nyt."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:150
 msgid "Stakron? You too?"
-msgstr ""
+msgstr "Stakron? Sinäkin?"
 
 #. [message]: description=Stakron
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
 msgid "Gakk is right. We should never have left the caves."
-msgstr ""
+msgstr "Gakk on oikeassa. Meidän ei olisi ikinä pitänyt lähteä luolista."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
 msgid "You would oppose our rightful leader, and the wishes of the council?"
-msgstr ""
+msgstr "Vastustaisit laillista johtajaamme ja neuvoston toiveita?"
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
@@ -1029,21 +1212,24 @@ msgid ""
 "still have some sort of power. Real power comes from strength of arms, not "
 "meetings."
 msgstr ""
+"Pah! Neuvosto ei ole yhtään enempää kuin nippu vanhoja höperöitä, jotka "
+"luulevat heillä yhä olevan jonkinlaista mahtia. Oikea voima mitataan asein, "
+"ei kokouksin."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
 msgid "If you will not back down, we will be forced to destroy you."
-msgstr ""
+msgstr "Jos ette peräänny, meidän on tuhottava teidät."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
 msgid "Hah! I'd like to see you try."
-msgstr ""
+msgstr "Hah! Tahtoisin nähdä kun yritätte."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:174
 msgid "If that's the way it must be, then so be it."
-msgstr ""
+msgstr "Jos näin on oltava, niin olkoon."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:178
@@ -1053,6 +1239,10 @@ msgid ""
 "those of our people who agree with these two. They will not be fighting "
 "alone."
 msgstr ""
+"Pelkään, etten voi auttaa sinua tässä, Kahn. En voi taistella neuvoston "
+"jäseniä vastaan, edes jos heistä on tullut hulluja. Mutta ole varovainen. Ei "
+"epäilystäkään, etteikö jotkut meidän kansassamme olisi samaa mieltä kuin nuo "
+"kaksi. He eivät tule taistelemaan yksin."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:182
@@ -1061,21 +1251,24 @@ msgid ""
 "and unless they attack our ships, I am afraid it does not concern me. I will "
 "return once you have dealt with these two."
 msgstr ""
+"Minäkään en voi sekaantua tähän. Minulla tärkeitä asioita, ja niin kauan "
+"kuin he eivät hyökkää laivojemme kimppuun, pelkään, ettei asia kuulu "
+"minulle. Palaan, kun olet hoidellut nämä kaksi."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:186
 msgid "I understand. Come, let us crush these traitors!"
-msgstr ""
+msgstr "Ymmärrän. Tulkaa, murskataan nuo petturit!"
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:215
 msgid "At least I won't live to see the demise of the Drakes."
-msgstr ""
+msgstr "Ainakaan en elä näkemään draakkien tuhoa."
 
 #. [message]: speaker=second unit
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:219
 msgid "I wish I hadn't had to do that."
-msgstr ""
+msgstr "Toivoin, ettei minun olisi tarvinnut tehdä tätä."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:223
@@ -1083,62 +1276,65 @@ msgid ""
 "He was a great asset to the Drakes. It's a shame it had to end like this. "
 "Still, I suppose we did only what was necessary."
 msgstr ""
+"Hänellä oli suuri merkitys draakeille. On häpeä, että tämän on päätyttävä "
+"näin. Kuitenkin uskon, että teimme vain sen mikä oli tarpeen."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:233
 msgid "Come now, Stakron. Surely you will not persist in this rebellion?"
-msgstr ""
+msgstr "Tule nyt, Stakron. Et varmastikaan pitäydy tässä kapinassa?"
 
 #. [message]: description=Stakron
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:237
 msgid "I ... it is too late for me now. I cannot turn back."
-msgstr ""
+msgstr "Minä... Se on liian myöhäistä minulle nyt. En voi kääntyä takaisin."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:241
 msgid "It truly saddens me to hear that."
-msgstr ""
+msgstr "Tuon kuuleminen todella tekee minut surulliseksi."
 
 #. [message]: description=Stakron
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:257
 msgid "I could have been wrong ..."
-msgstr ""
+msgstr "Olisin voinut olla väärässä..."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:261
 msgid "You will pay for that!"
-msgstr ""
+msgstr "Sinä vielä maksat tuosta!"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:275
 msgid "Too many Drakes are defecting to them. We are doomed!"
-msgstr ""
+msgstr "Liian moni draakki siirtyy heidän puolelleen. Meidät on tuomittu!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:285
 msgid "(sigh) The rebels are defeated."
-msgstr ""
+msgstr "(huoh) Kapinalliset on lyöty."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:295
 msgid "This is a sad day. Many Drakes have died in a pointless rebellion."
-msgstr ""
+msgstr "Tämä on surullinen päivä. Moni draakki on kuollut turhassa kapinassa."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:299
 msgid "Yes. And we now have two vacant places on the council."
-msgstr ""
+msgstr "Niin, ja nyt meillä on kaksi tyhjää paikkaa neuvostossa."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:303
 msgid ""
 "That will have to wait. You must leave immediately before the weather turns."
 msgstr ""
+"Sen täytyy odottaa. Teidän täytyy lähteä välittömästi ennen kuin sää kääntyy."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:307
 msgid "Very well. Thank you once again, Alamar."
-msgstr ""
+msgstr "Hyvä on. Kiitos taas kerran, Alamar."
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:311
@@ -1146,21 +1342,23 @@ msgid ""
 "No, thank you. Since you defeated the bandits, our villages are safe. May "
 "your journey be quick and uneventful."
 msgstr ""
+"Ei, kiitos teille. Koska kukistitte bandiitit, kylämme ovat turvassa. Olkoon "
+"matkanne nopea ja helppo."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:315
 msgid "Let's hope so. To the ships!"
-msgstr ""
+msgstr "Toivotaan niin. Laivoille!"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:4
 msgid "Sea Journey"
-msgstr ""
+msgstr "Merimatka"
 
 #. [part]
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:8
 msgid "The remaining Drakes boarded the ships and embarked immediately."
-msgstr ""
+msgstr "Jäljelle jääneet draakit nousivat laivoihin välittömästi."
 
 #. [part]
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:12
@@ -1168,18 +1366,20 @@ msgid ""
 "The trip was uneventful for the first few days, until they neared their "
 "destination."
 msgstr ""
+"Ensimmäisten muutaman päivän aikana matkalla ei tapahtunut mitään ihmeempiä, "
+"mutta sitten he lähenivät määränpäätään."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:38
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:609
 msgid "Survive until the end of turns"
-msgstr ""
+msgstr "Selviydy vuorojen loppuun"
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:50
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:621
 msgid "Death of Ober"
-msgstr ""
+msgstr "Oberin kuolema"
 
 #. [message]: description=Ober
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:108
@@ -1188,11 +1388,15 @@ msgid ""
 "however the reports I have heard say there are often many Nagas around here. "
 "They do move around a lot though, so let's hope they are currently elsewhere."
 msgstr ""
+"Meillä on vähän tietoa tästä alueesta, sillä yleensä välttelemme Morogoria. "
+"Kuitenkin kuulemissani raporteissa sanotaan, että usein niillä kolkin on "
+"paljon nagoja. Ne liikkuvat paljon, joten toivotaan että ne ovat tällä "
+"hetkellä jossakin muualla."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:112
 msgid "What are these Nagas?"
-msgstr ""
+msgstr "Mitä ovat nämä nagat?"
 
 #. [message]: description=Ober
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:116
@@ -1200,16 +1404,18 @@ msgid ""
 "They are serpentine creatures who live in the sea. This is very much their "
 "element, so it would be a struggle to have to face them here."
 msgstr ""
+"Ne ovat käärmemäisiä olentoja, jotka asuvat merellä. Täällä he ovat "
+"elementissään, joten olisi hyvä jos emme joutuisi kohtaamaan niitä täällä."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:120
 msgid "You mean like these?"
-msgstr ""
+msgstr "Tarkoitat sellaisia kuin nämä?"
 
 #. [message]: description=Sekol
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:125
 msgid "Intruderssss! Don't let any essscape!"
-msgstr ""
+msgstr "Tunkeilijat! Älkää päässstäkö ketään pakoon!"
 
 #. [message]: description=Ober
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:138
@@ -1218,6 +1424,10 @@ msgid ""
 "through them. You must protect the ship, but don't allow anyone to get too "
 "far behind as we will not be able to go back for them."
 msgstr ""
+"Pihkura! On liian myöhäistä kääntyä takaisin. Meidän on yritettävä löytää "
+"tiemme heidän lävitseen. Sinun on suojeltava laivaa, mutta älä anna "
+"kenenkään jäädä liiaksi jälkeen, sillä emme pysty palata takaisin heidän "
+"takiaan."
 
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:142
@@ -1226,6 +1436,9 @@ msgid ""
 "hexes up as the ship moves forward. This means any units in the top five "
 "rows will be lost."
 msgstr ""
+"Jokaisen vuoron alussa jokainen yksikkö, joka ei ole laivassa, liikkuu viisi "
+"heksaa ylös laivan liikkuessa eteenpäin. Tämä tarkoittaa, että jokainen "
+"viiden ylimmän rivin yksikkö menetetään."
 
 #. [message]: description=Ober
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:600
@@ -1233,46 +1446,48 @@ msgid ""
 "There do not appear to be any more coming. We just need to hold off or "
 "defeat those that remain."
 msgstr ""
+"Niitä ei näytä tulevan enää lisää. Meidän täytyy enää pysytellä loitolla tai "
+"tuhota nuo jäljellä olevat."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:605
 msgid "Defeat remaining Nagas"
-msgstr ""
+msgstr "Kukista jäljellä olevat nagat"
 
 #. [message]: description=Sekol
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:726
 msgid "Avenge me, brotherssss and ssssissssterssss..."
-msgstr ""
+msgstr "Kossstakaa minut, veljet ja sssissskot..."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:736
 msgid "We will never pilot this ship without him!"
-msgstr ""
+msgstr "Emme ikinä saa ohjattua tätä alusta ilman häntä!"
 
 #. [message]: description=Ober
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:752
 msgid "We made it! The Nagas will not pursue us any further."
-msgstr ""
+msgstr "Teimme sen! Nagat eivät aja meitä takaa enää pidemmälle."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:756
 msgid "Surely it can only get easier from here?"
-msgstr ""
+msgstr "Tästä tämä voi varmasti vain helpottua?"
 
 #. [message]: description=Ober
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:760
 msgid "We should meet no further resistance between here and Morogor."
-msgstr ""
+msgstr "Meidän ei pitäisi kohdata enempää vastustusta täältä Morogoriin."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:764
 msgid "Sounds good to me. Onward!"
-msgstr ""
+msgstr "Kuulostaa hyvältä. Eteenpäin!"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:4
 msgid "Landing on Morogor"
-msgstr ""
+msgstr "Maihinnousu Morogoriin"
 
 #. [part]
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:8
@@ -1281,17 +1496,20 @@ msgid ""
 "Morogor. The humans departed as quickly as they could, not wanting to take "
 "any chances. The Drakes began to survey the land they were to call home."
 msgstr ""
+"Päästyään onnistuneesta nagojen ohi draakit jo pian rantautuivat Morogoriin. "
+"Ihmiset poistuivat niin nopeasti kuin suinkin, sillä he eivät halunneet "
+"ottaa riskejä. Draakit alkoivat tutkia maata, jota he kutsuisivat kodiksi."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:33
 msgid "Defeat the undead"
-msgstr ""
+msgstr "Kukista epäkuolleet"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:88
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
-msgstr ""
+msgstr "Ugh! Tämä paikka on kuvottava! Ehkä Gakk oli oikeassa."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:92
@@ -1299,16 +1517,19 @@ msgid ""
 "This place reeks of the undead. No doubt once we clear the island of the "
 "undead, the land itself will regenerate."
 msgstr ""
+"Tämä paikka lemuaa epäkuolleilta. Epäilemättä heti kun puhdistamme saaren "
+"epäkuolleista, maa uudistuu itsestään."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:96
 msgid "I certainly hope so. Look - there are undead here. Let's get started!"
-msgstr ""
+msgstr "Tietysti toivon niin. Katso, tuolla on epäkuolleita. Aloittakaamme!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:106
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr ""
+"Mitä pahuutta tämä on? Nuo kaatuneet draakit nousevat ylös epäkuolleina!"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:110
@@ -1316,21 +1537,23 @@ msgid ""
 "This island is steeped with dark magic. We must find and destroy the source "
 "of it."
 msgstr ""
+"Tämä saari on pimeän magian vallassa. Meidän täytyy löytää ja tuhota sen "
+"lähde."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:114
 msgid "One thing at a time, OK? Let's get this lot out of the way first."
-msgstr ""
+msgstr "Asia kerrallaan, jooko? Hoidetaan tämä joukko ensin pois tieltä."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:126
 msgid "There are just too many of them! We are doomed to die in this swamp!"
-msgstr ""
+msgstr "Niitä vain on liikaa! Olemme tuomitut kuolemaan tässä suossa!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:133
 msgid "The undead are retreating!"
-msgstr ""
+msgstr "Epäkuolleet pakenevat!"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:137
@@ -1338,16 +1561,18 @@ msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
 msgstr ""
+"Niitä on epäilemättä paljon lisää sieltä mistä ne tulevat. Meidän on "
+"puhdistettava koko saari, jos haluamme tehdä siitä kotimme."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:141
 msgid "Then what are we waiting for? Let's keep moving!"
-msgstr ""
+msgstr "Mitä me sitten odotamme? Lähdetään liikkeelle!"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:4
 msgid "Clearing the Island"
-msgstr ""
+msgstr "Saaren puhdistus"
 
 #. [part]
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:8
@@ -1355,16 +1580,19 @@ msgid ""
 "The Drakes moved inland quickly, wanting to deal with the undead as soon as "
 "possible, but soon encountered an unnatural darkness."
 msgstr ""
+"Draakit siirtyivät sisämaahan nopeasti haluten ottaa yhteen epäkuolleiden "
+"kanssa niin pian kuin mahdollista, mutta pian he kohtasivat epäluonnollisen "
+"pimeyden."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:33
 msgid "Scout out the land"
-msgstr ""
+msgstr "Tutki maa"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:87
 msgid "Does this swamp ever end? I can't see a thing!"
-msgstr ""
+msgstr "Loppuuko tämä suo koskaan? En näe mitään!"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:91
@@ -1372,6 +1600,8 @@ msgid ""
 "We must be getting close to the source of this evil. That's why the land is "
 "so dark."
 msgstr ""
+"Meidän täytyy lähestyä tätä pahuuden lähdettä. Sen takia tämä maa on niin "
+"pimeä."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:95
@@ -1379,6 +1609,8 @@ msgid ""
 "We can't continue like this indefinitely. This darkness reaches inside you "
 "and grips your heart."
 msgstr ""
+"Emme voi jatkaa tällä tavoin loputtomiin. Tämä pimeys tunkeutuu sisällesi ja "
+"tarttuu sydämeesi."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:99
@@ -1386,11 +1618,13 @@ msgid ""
 "No, we can't. Send some scouts ahead to spy out the land. We cannot keep "
 "wandering aimlessly."
 msgstr ""
+"Emme voikaan. Lähetä muutama tiedustelija edelle vakoilemaan maata. Emme voi "
+"jatkaa vaeltamista päämäärättä."
 
 #. [message]: speaker=second_unit
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:109
 msgid "There are more undead here!"
-msgstr ""
+msgstr "Täällä on lisää epäkuolleita!"
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:113
@@ -1398,6 +1632,7 @@ msgid ""
 "It was only a matter of time until we ran into them again. Very well - "
 "destroy them!"
 msgstr ""
+"Oli vain ajan kysymys milloin kohtaamme niitä taas. Hyvä on – tuhotkaa ne!"
 
 #. [message]: description=Woldimer
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:142
@@ -1405,6 +1640,8 @@ msgid ""
 "Ah! So these are the creatures who dare enter our territory! Hmmm, they are "
 "strong. They will make excellent slaves!"
 msgstr ""
+"Ah! Nämä siis ovat olentoja, jotka kehtaavat astua alueellemme! Hmmm, ne "
+"ovat vahvoja. Niistä tulee erinomaisia orjia!"
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:146
@@ -1412,6 +1649,8 @@ msgid ""
 "We did not come here to enter your territory, we came here to occupy it and "
 "destroy you!"
 msgstr ""
+"Emme tulleet tänne astuaksemme alueellenne. Tulimme tänne valloittaaksemme "
+"sen ja tuhotaksemme sinut!"
 
 #. [message]: speaker=Freon
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:150
@@ -1419,27 +1658,31 @@ msgid ""
 "So the leader of the undead shows himself. Concentrate your efforts on him. "
 "If we can defeat him, the power that sustains the undead will be broken."
 msgstr ""
+"Niin epäkuolleiden johtaja näyttäytyy. Keskitä yrityksesi häneen. Jos lyömme "
+"hänet, epäkuolleita kannatteleva voima murtuu!"
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:155
 msgid "Kill Woldimer"
-msgstr ""
+msgstr "Surmaa Woldimer"
 
 #. [message]: description=Woldimer
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:184
 msgid "I have fallen, but my master will avenge me!"
-msgstr ""
+msgstr "Minut on kukistettu, mutta herrani kostaa minut!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:191
 msgid "There are just too many of them! We can never prevail!"
-msgstr ""
+msgstr "Niitä vain on liikaa! Emme ikinä voi voittaa!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:198
 msgid ""
 "What did he mean, his master? I thought he was the master of these undead!"
 msgstr ""
+"Mitä hän tarkoitti? Hänen herransa? Luulin hänen olleen näiden epäkuolleiden "
+"herra!"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:202
@@ -1447,6 +1690,8 @@ msgid ""
 "He was powerful, yes. Yet despite his death the darkness persists. There "
 "must be another, more powerful yet."
 msgstr ""
+"Niin, hän oli voimakas. Silti hänen kuolemansa ei poistanut tätä pimeyttä. "
+"On oltava toinen, vielä voimakkaampi."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:206
@@ -1454,16 +1699,20 @@ msgid ""
 "I don't know how much longer we can continue this. There are rumours of "
 "mutiny again."
 msgstr ""
+"En tiedä kuinka kauan voimme jatkaa tätä. Huhuja kapinasta on jälleen "
+"liikkeellä."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:210
 msgid "Then we must find and defeat Woldimer's master quickly. Come on!"
 msgstr ""
+"Siinä tapauksessa meidän löydettävä ja lyötävä Woldimerin herra nopeasti. "
+"Menoksi!"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:4
 msgid "Showdown"
-msgstr ""
+msgstr "Välienselvittely"
 
 #. [part]
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:8
@@ -1471,11 +1720,13 @@ msgid ""
 "Continuing to move inland, the Drakes soon found that the darkness was "
 "becoming almost unbearable."
 msgstr ""
+"Jatkaessaan matkaansa sisämaahan draakit pian huomasivat pimeyden "
+"synkkenevän lähes sietämättömäksi."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:33
 msgid "Find enemy leader"
-msgstr ""
+msgstr "Löydä vihollisjohtaja"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:105
@@ -1483,6 +1734,8 @@ msgid ""
 "Woldimer's master must be very close. This darkness appears to be even "
 "heavier than before, if that were possible."
 msgstr ""
+"Woldimerin herran on oltava hyvin lähellä. Tämä pimeys näyttää olevan vielä "
+"raskaampaa kuin ennen, jos se edes on mahdollista."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:109
@@ -1490,11 +1743,14 @@ msgid ""
 "I certainly hope so. Our supplies will not last much longer. We must finish "
 "this quickly!"
 msgstr ""
+"Ilman muuta toivon niin. Varusteemme eivät kestä enää kauan. Meidän on "
+"lopetettava tämä nopeasti."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:113
 msgid "We must find our enemy before we can finish him."
 msgstr ""
+"Meidän on löydettävä vihollisemme ennen kuin voimme tehdä hänestä lopun."
 
 #. [message]: description=Mal-Bronam
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:132
@@ -1503,11 +1759,14 @@ msgid ""
 "dearly for that! Still, I have waited centuries for a good fight. Revenge "
 "will just make it even better."
 msgstr ""
+"Se siis on totta. Liskot ovat onnistuneet lyömään oppipoikani. Saatte maksaa "
+"siitä suuresti! Olen odottanyt hyvää taistelua vuosisatoja. Kosto tulee "
+"tekemään siitä vielä paremman."
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:136
 msgid "Is that thing alive or dead?"
-msgstr ""
+msgstr "Onko tuo juttu elossa vai kuollut?"
 
 #. [message]: speaker=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:140
@@ -1515,11 +1774,13 @@ msgid ""
 "He is a Lich - a dark sorcerer who himself has become undead. And a very "
 "powerful one at that. In fact, he has perhaps too much power."
 msgstr ""
+"Hän on kuolonherra – pimeä noita, josta itsestään on tullut epäkuollut. Ja "
+"hyvin voimakas. Oikeastaan hänellä on ehkä liikaakin voimia."
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:144
 msgid "Too much for what? Are you saying we cannot prevail?"
-msgstr ""
+msgstr "Liikaa mihin? Väitätkö, ettemme voi voittaa?"
 
 #. [message]: speaker=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:148
@@ -1528,11 +1789,15 @@ msgid ""
 "of great power that sustains him. Destroy the talisman and he will be "
 "greatly weakened. Only then will we be able to defeat him."
 msgstr ""
+"En. Hänellä on enemmän voimaa kuin pitäisi olla mahdollista. Mitä "
+"todennäköisimmin hänellä on paljon voimaa antava taikaesine, joka antaa "
+"hänelle voimia. Tuhoa taikaesine, niin hän heikentyy paljon. Vain sen "
+"jälkeen meidän on mahdollista lyödä hänet."
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:152
 msgid "You don't sound too sure."
-msgstr ""
+msgstr "Et kuulosta liian varmalta."
 
 #. [message]: speaker=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:156
@@ -1542,50 +1807,57 @@ msgid ""
 "it will be close to him - I doubt he would let it far out of his sight. And "
 "the closer it is to him the more power he can draw from it."
 msgstr ""
+"En olekaan, mutta se on ainoa mahdollisuutemme. Jos hyökkäämme hänen "
+"kimppuunsa suoraan, epäonnistumme varmasti. Meidän on löydettävä ja "
+"tuhottava hänen voimiensa lähde. Ei epäilystäkään, etteikö se olisi lähellä "
+"häntä. Epäilen, ettei hän päästäisi sitä kauas näköpiiristään. Ja mitä "
+"lähempänä hän sitä on, sitä enemmän voimaa hän voi imeä siitä."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:161
 msgid "Find and destroy Mal-Bronam's talisman; then"
-msgstr ""
+msgstr "Löydä ja tuhoa Mal-Bronamin taikaesine; sitten"
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:165
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:444
 msgid "Kill Mal-Bronam"
-msgstr ""
+msgstr "Surmaa Mal-Bronam"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:205
 msgid ""
 "I told you it's useless attacking him! We must destroy that talisman first!"
 msgstr ""
+"Kerroin sinulle, että on hyödytöntä hyökätä hänen kimppuunsa! Meidän "
+"tuhottava se taikaesine ensin!"
 
 #. [message]: speaker=unit
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:274
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:318
 msgid "Look! What is this thing?"
-msgstr ""
+msgstr "Katso, mikä esine tuo on?"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:278
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:322
 msgid "It must be the talisman we were looking for! We must destroy it!"
-msgstr ""
+msgstr "Sen on oltava etsimämme taikaesine! Meidän on tuhottava se!"
 
 #. [message]: description=Mal-Bronam
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:368
 msgid "Noooo! What have you done?"
-msgstr ""
+msgstr "Eiiii! Mitä te olette tehneet?"
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:383
 msgid "It worked! The darkness is retreating!"
-msgstr ""
+msgstr "Se toimi! Pimeys väistyy!"
 
 #. [message]: speaker=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:387
 msgid "Good - now destroy him!"
-msgstr ""
+msgstr "Hyvä! Tuhoa hänet nyt!"
 
 #. [message]: speaker=Mal-Bronam
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:391
@@ -1593,36 +1865,38 @@ msgid ""
 "Do you think I am no longer able to defend myself? I still have power "
 "greater than you can imagine!"
 msgstr ""
+"Luuletteko, etten enää voi puolustaa itseäni? Minulla on yhä suuremmat "
+"voimat kuin voitte kuvitella!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:476
 msgid "This darkness pervades my soul. I cannot continue any longer!"
-msgstr ""
+msgstr "Tämä pimeys leviää sieluuni. En voi jatkaa pidempään!"
 
 #. [message]: description=Mal-Bronam
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:486
 msgid "No! It cannot be! I am immortal! I am invincible! I am -"
-msgstr ""
+msgstr "Ei! Ei voi olla! Olen kuolematon! Olen voittamaton! Olen –"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:490
 msgid "Gone."
-msgstr ""
+msgstr "Poissa."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:497
 msgid "Can it be true? Is it possible we have defeated him?"
-msgstr ""
+msgstr "Voiko se olla totta? Onko mahdollista, että olemme lyöneet hänet?"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:501
 msgid "Yes - look! The undead melt away already."
-msgstr ""
+msgstr "Kyllä. Katso! Epäkuolleet sulivat jo pois."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:506
 msgid "I don't think it's safe to stay here."
-msgstr ""
+msgstr "En usko, että täällä on turvallista pysyä."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:510
@@ -1630,11 +1904,13 @@ msgid ""
 "No. The earth is shaking off a great burden. We would be best to retreat to "
 "the open plains."
 msgstr ""
+"Ei. Maa ravistelee yltään suurta taakkaa. Meidän olisi parasta paeta "
+"avoimille tasangoille."
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:4
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilogi"
 
 #. [part]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:8
@@ -1645,6 +1921,11 @@ msgid ""
 "it was already receding. They could see that once it returned to normal, it "
 "would be a beautiful place."
 msgstr ""
+"Kolmen päivän ajan draakit laidunsivat avoimilla tasangoilla maan jatkaessa "
+"ravisteluaan. Lopulta tärähtelyt loppuivat ja draakkien oli mahdollista "
+"ottaa heidän ensimmäinen todellinen silmäyksensä saaresta. Suo peitti yhä "
+"siitä paljon, mutta oli jo väistymässä. He pystyivät näkemään, että saaren "
+"palattua tavalliseksi se olisi kaunis paikka."
 
 #. [part]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:11
@@ -1652,6 +1933,9 @@ msgid ""
 "However, less than one-fifth of the Drakes who set out still remained. Kahn "
 "in particular struggled to convince himself that it had all been worth it."
 msgstr ""
+"Joka tapauksessa vähemmän kuin yksi viidesosa draakeista, jotka lähtivät "
+"matkaan, oli enää jäljellä. Kahn enimmäkseen yritti vakuutella itselleen, "
+"että kaikki oli ollut sen arvoista."
 
 #. [part]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:14
@@ -1661,3 +1945,7 @@ msgid ""
 "around the island of the Nagas. The Drakes thrived in their new home, and "
 "their numbers grew once again."
 msgstr ""
+"Ajan kanssa hän kuitenkin sai käsiteltyä murheensa ja johti draakkeja vielä "
+"monen monta vuotta. Ihmisten avulle he puhdistivat saaren läheisen vedet "
+"nagoista. Draakit kukoistivat uudessa kodissaan ja heidän lukumääränsä "
+"lisääntyi taas kerran."
