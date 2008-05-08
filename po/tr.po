@@ -1,20 +1,26 @@
+# Turkish translations for Battle for Wesnoth package.
+# Copyright (C) 2008 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-Children_of_Dragons\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-02 17:42+0200\n"
-"PO-Revision-Date: 2008-04-02 17:42+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2008-05-07 16:33+0300\n"
+"Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
+"Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:7
 msgid "Children of Dragons"
-msgstr ""
+msgstr "Ejderlerin Çocukları"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:12
@@ -27,27 +33,27 @@ msgstr ""
 #. [campaign]
 #: Children_of_Dragons.cfg:14
 msgid "Noble"
-msgstr ""
+msgstr "Asker"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:14
 msgid "Chancellor"
-msgstr ""
+msgstr "Subay"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:14
 msgid "Lord"
-msgstr ""
+msgstr "Lider"
 
 #. [about]
 #: Children_of_Dragons.cfg:17
 msgid "Campaign Developed and Maintained By"
-msgstr ""
+msgstr "Seferberlik Tasarımı"
 
 #. [about]
 #: Children_of_Dragons.cfg:23
 msgid "Artwork and Graphics"
-msgstr ""
+msgstr "Sanatsal ve Çizgesel Tasarım"
 
 #. [entry]
 #: Children_of_Dragons.cfg:29
@@ -57,17 +63,17 @@ msgstr ""
 #. [about]
 #: Children_of_Dragons.cfg:33
 msgid "Maps"
-msgstr ""
+msgstr "Haritalar"
 
 #. [about]
 #: Children_of_Dragons.cfg:42
 msgid "Translations"
-msgstr ""
+msgstr "Çevirmenler"
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:4
 msgid "Leader of the Drakes"
-msgstr ""
+msgstr "Ejderlerin Lideri"
 
 #. [part]
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:8
@@ -93,7 +99,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:32
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:29
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Bütün düşman liderlerini öldür"
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:56
@@ -113,7 +119,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:613
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:33
 msgid "Death of Kahn"
-msgstr ""
+msgstr "Kan’ın ölümü"
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:64
@@ -131,7 +137,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:249
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37
 msgid "Turns run out"
-msgstr ""
+msgstr "Ellerin bitmesi"
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:94
@@ -204,7 +210,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:4
 msgid "Drake Council"
-msgstr ""
+msgstr "Ejder Meclisi"
 
 #. [part]
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:8
@@ -298,7 +304,7 @@ msgstr ""
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:200
 msgid "Explain."
-msgstr ""
+msgstr "Açıkla."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:204
@@ -419,7 +425,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:4
 msgid "The Emerging"
-msgstr ""
+msgstr "Zuhur"
 
 #. [part]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:8
@@ -539,7 +545,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:4
 msgid "Leaving the Mountains"
-msgstr ""
+msgstr "Dağları Terk"
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
@@ -627,7 +633,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
 msgid "Dark Forest"
-msgstr ""
+msgstr "Kara Orman"
 
 #. [part]
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:8
@@ -705,7 +711,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
 msgid "The Humans"
-msgstr ""
+msgstr "İnsanlar"
 
 #. [part]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:8
@@ -725,7 +731,7 @@ msgstr ""
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:50
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "Dur! Kim var orada?"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:54
@@ -827,7 +833,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:4
 msgid "Bandits"
-msgstr ""
+msgstr "Haydutlar"
 
 #. [part]
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:8
@@ -917,17 +923,17 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:199
 msgid "You retrieve 75 gold."
-msgstr ""
+msgstr "75 altın aldınız."
 
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:221
 msgid "You retrieve 100 gold."
-msgstr ""
+msgstr "100 altın aldınız."
 
 #. [message]: speaker=narrator
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:243
 msgid "You retrieve 50 gold."
-msgstr ""
+msgstr "50 altın aldınız."
 
 #. [message]: description=Tumabulindrum
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:259
@@ -937,7 +943,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:4
 msgid "To the Ships"
-msgstr ""
+msgstr "Gemilere"
 
 #. [part]
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:8
@@ -1155,7 +1161,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:4
 msgid "Sea Journey"
-msgstr ""
+msgstr "Deniz Yolculuğu"
 
 #. [part]
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:8
@@ -1173,7 +1179,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:38
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:609
 msgid "Survive until the end of turns"
-msgstr ""
+msgstr "Ellerin bitimine kadar dayan"
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:50
@@ -1237,7 +1243,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:605
 msgid "Defeat remaining Nagas"
-msgstr ""
+msgstr "Kalan Nagaları öldür"
 
 #. [message]: description=Sekol
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:726
@@ -1272,7 +1278,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:4
 msgid "Landing on Morogor"
-msgstr ""
+msgstr "Morogor’a Varış"
 
 #. [part]
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:8
@@ -1286,7 +1292,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:33
 msgid "Defeat the undead"
-msgstr ""
+msgstr "Yarı ölüleri öldür"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:88
@@ -1347,7 +1353,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:4
 msgid "Clearing the Island"
-msgstr ""
+msgstr "Ada Temizliği"
 
 #. [part]
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:8
@@ -1463,7 +1469,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:4
 msgid "Showdown"
-msgstr ""
+msgstr "Karar Zamanı"
 
 #. [part]
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:8
@@ -1634,7 +1640,7 @@ msgstr ""
 #. [scenario]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:4
 msgid "Epilogue"
-msgstr ""
+msgstr "Sonsöz"
 
 #. [part]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:8
