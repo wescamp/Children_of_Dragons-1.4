@@ -1,23 +1,26 @@
+# translation of hu-cod[1].po to Hungarian
 # translation of wesnoth-Children_of_Dragons.pot to Hungarian
 # Hungarian translations for Wescamp package.
 # Copyright (C) 2008 Wescamp development team
 # This file is distributed under the same license as the Wescamp package.
 #
 # Gabor Udvari <gabor.udvari@gmail.com>, 2008.
+# Kádár-Németh Krisztián <krisztian.kad@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: hu-cod\n"
+"Project-Id-Version: hu-cod[1]\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-02 17:42+0200\n"
-"PO-Revision-Date: 2008-04-29 11:27+0000\n"
-"Last-Translator: Gabor Udvari <gabor.udvari@gmail.com>\n"
-"Language-Team: Wesnoth Hungarian Translation Team <NONE>\n"
+"PO-Revision-Date: 2008-05-30 23:04+0200\n"
+"Last-Translator: Kádár-Németh Krisztián <krisztian.kad@gmail.com>\n"
+"Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.11.4\n"
 
+# következő munka: 51
 #. [campaign]
 #: Children_of_Dragons.cfg:7
 msgid "Children of Dragons"
@@ -30,7 +33,7 @@ msgid ""
 "all but extinct. But their descendants are just about to make their mark on "
 "the world..."
 msgstr ""
-"A valaha volt legrettegettebb e világi teremtmények, a sárkányok mind "
+"A valaha létezett legrettegettebb evilági teremtmények, a sárkányok mind "
 "kihaltak. De leszármazottaik éppen hogy csak most kezdik el kéznyomukat "
 "hagyni ezen a világon..."
 
@@ -42,7 +45,7 @@ msgstr "Nemes"
 #. [campaign]
 #: Children_of_Dragons.cfg:14
 msgid "Chancellor"
-msgstr "Tanácsos"
+msgstr "Kancellár"
 
 #. [campaign]
 #: Children_of_Dragons.cfg:14
@@ -67,7 +70,7 @@ msgstr "Eredeti egységanimációk"
 #. [about]
 #: Children_of_Dragons.cfg:33
 msgid "Maps"
-msgstr ""
+msgstr "Térképek"
 
 #. [about]
 #: Children_of_Dragons.cfg:42
@@ -88,12 +91,11 @@ msgid ""
 "longer as awe-inspiring or as powerful, but far more numerous and much more "
 "intelligent, have been eking out an existence underground."
 msgstr ""
-"Évszázadokig a hatalmas sárkányok uralták a földet. De idejük lejárt. Számuk "
-"lecsökkent egészen addig, ameddig már csak néhány maradt belőlük, és "
-"többnyire olyan legendaként élnek tovább, amikben nem nagyon hisz már senki "
-"sem. Azonban leszármazottaik, nem annyira lélegzetelállítóak és hatalmasak, "
-"de sokkal népesebbek és intelligensebbek, barlangrendszerekben tengették "
-"napjaikat."
+"Évszázadokon át a hatalmas sárkányok uralták a földet. De idejük lejárt. "
+"Számuk lefogyott egészen addig, amíg már csak egy maroknyi maradt belőlük, "
+"és többnyire olyan legendaként élnek tovább, amikben senki sem hisz igazán. "
+"Azonban leszármazottaik, nem annyira lélegzetelállítóak és hatalmasak, de "
+"sokkal népesebbek és eszesebbek, barlangrendszerekben tengették napjaikat."
 
 #. [part]
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:12
@@ -104,11 +106,11 @@ msgid ""
 "Drake race should head, but only one will get the chance to put their ideas "
 "into action..."
 msgstr ""
-"Most, hogy a sokat megért vezetőjük halott, eljött az idő egy új "
-"generációnak, hogy elfoglalja a birodalmat. A sok kihívás után három "
-"lehetséges vezető emelkedett ki társaik közül. Mindannyiuknak különböző "
-"véleményük van arról, hogy a Perzsekény nemzetségnek merre kellene indulnia, "
-"de csak egynek lesz lehetősége gondolatait cselekvésekkel megvalósítania..."
+"Most, hogy a sokat megélt vezetőjük halott, eljött az idő, hogy egy új "
+"generáció vegye kezébe a gyeplőt. A sok kihívás után három lehetséges vezető "
+"emelkedett ki társai közül. Mindannyiuknak különböző véleménye van arról, "
+"hogy a Perzsekény nemzetségnek merre kellene indulnia, de csak egynek lesz "
+"lehetősége elképzeléseit megvalósítania..."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:32
@@ -152,7 +154,7 @@ msgstr "Kahn elesik"
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:249
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37
 msgid "Turns run out"
-msgstr "Túlléped a körök számát"
+msgstr "Kifutsz az időből"
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:94
@@ -199,7 +201,7 @@ msgid ""
 "What? There is still no winner after the allotted time? It seems none of you "
 "are worthy to lead us after all."
 msgstr ""
-"Micsoda? Még mindig nincs győztes a kiszabott idő alatt? Úgy látszik "
+"Micsoda? Még mindig nincs győztes a kiszabott idő alatt? Úgy látszik, "
 "egyikőtök sem érdemes arra, hogy vezessen minket."
 
 #. [message]: description=Harkon
@@ -215,15 +217,15 @@ msgstr "Bah! A Perzsekényeknek befellegzett."
 #. [message]: description=Verk
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:183
 msgid "Ah. It seems I was overly ambitious."
-msgstr "Ah. Úgy néz ki túlságosan nagyravágyó voltam."
+msgstr "Ah. Úgy néz ki, túlságosan nagyravágyó voltam."
 
 #. [message]: description=Garaag
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:193
 msgid ""
 "Too right you were. Only I have the steel required to lead the mighty Drakes."
 msgstr ""
-"Teljesen igazad van. Csak nekem van pengém arra, hogy vezessem a hatalmas "
-"Perzsekényeket."
+"Hogy mennyire igazad van. Csak nekem van olyan jó a pengém, hogy vezessem a "
+"hatalmas Perzsekényeket."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:197
@@ -233,7 +235,7 @@ msgstr "Majd meglátjuk."
 #. [scenario]
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:4
 msgid "Drake Council"
-msgstr "Perzsekény Tanácsos"
+msgstr "Perzsekény Tanács"
 
 #. [part]
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:8
@@ -251,7 +253,7 @@ msgid ""
 "leader you are now also the head of this council, though there is little you "
 "can do without the approval of the majority of the council."
 msgstr ""
-"Rendreutasítom a Perzsekény Tanácsot! Légy üdvözölve Kahn. Mint vezetőnk "
+"Rendreutasítom a Perzsekény Tanácsot! Légy üdvözölve Kahn. Mint vezetőnk, "
 "egyúttal a tanács feje is vagy, habár nagyon kevés dolgot tudsz csak tenni a "
 "tanács többségének egyetértése nélkül."
 
@@ -264,7 +266,7 @@ msgstr ""
 #. [message]: description=Derk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:156
 msgid "We believe you have some rather, uh, drastic plans, Kahn."
-msgstr "Úgy gondoljuk, hogy néhány, hát... drasztikus terved van Kahn."
+msgstr "Úgy gondoljuk, hogy néhány, hát... drasztikus terved van, Kahn."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:160
@@ -274,7 +276,7 @@ msgstr "Mondhatod így is."
 #. [message]: description=Flerk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:164
 msgid "Then I think you should share them."
-msgstr "Akkor úgy gondolom meg kellene osztanod velünk."
+msgstr "Akkor úgy gondolom, meg kellene osztanod velünk."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:168
@@ -292,11 +294,11 @@ msgid ""
 "paved the cave floors such as in this cavern."
 msgstr ""
 "Tisztelt tanácstagok, népünk a hatalmas sárkányoktól származik, akik valaha "
-"az eget és földet uralták. Évszázadokig rejtőzködünk a föld alatt, és még "
+"az eget és földet uralták. Évszázadok óta rejtőzködünk a föld alatt, és még "
 "mindig nem alkalmazkodtunk igazán a körülményekhez, amiket minden nap "
 "tapasztalunk. Nem küzdünk jól a barlangokban, mint a trollok és a törpök, "
-"amikkel időnként szembeszállunk. Nem tudunk gyorsan mozogni, hacsak nem "
-"rakjuk ki kövekkel a padlót, mint ebben a barlangban."
+"akikkel időnként szembeszállunk. Nem tudunk gyorsan mozogni, hacsak nem "
+"fedjük kövekkel a padlót, mint ebben a barlangban."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:176
@@ -309,7 +311,7 @@ msgid ""
 "We have, as you say, lived here for centuries. How can you claim we do not "
 "belong?"
 msgstr ""
-"Mint mondtad évszázadok óta itt élünk. Hogy állíthatsz ilyet, hogy nem ide "
+"Mint mondtad, évszázadok óta itt élünk. Hogy állíthatsz ilyet, hogy nem ide "
 "tartozunk?"
 
 #. [message]: description=Freon
@@ -326,7 +328,7 @@ msgid ""
 "ground."
 msgstr ""
 "Mint mondtam, küzdünk itt a föld alatt. Ennek ellenére gyarapodtunk és "
-"erősödtünk. De ha továbbra is növekedni akarunk, akkor azt hiszem eljött az "
+"erősödtünk. De ha továbbra is növekedni akarunk, akkor azt hiszem, eljött az "
 "idő, hogy drasztikus változások következzenek. Azt tervezem, hogy a "
 "Perzsekényeket a földfelszínre vezetem."
 
@@ -337,8 +339,8 @@ msgid ""
 "we know how to survive. We know nothing about the world above ground."
 msgstr ""
 "Biztosan nem mondod ezt komolyan. Ismerjük a barlangokat - tudjuk mit "
-"várhatunk, tudjuk hogyan éljünk túl. Nem tudunk semmit a világról a föld "
-"felett."
+"várhatunk, tudjuk hogyan maradhatunk életben. Nem tudunk semmit a föld "
+"feletti világról."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:196
@@ -358,11 +360,11 @@ msgid ""
 "do so underground. We have long dreamt that a day would come when we would "
 "be able to live there permanently. We cannot dismiss such an opportunity."
 msgstr ""
-"Az elmúlt két nemzedék során, klánom jónéhány tagja rövid utakat tett a föld "
+"Az elmúlt két nemzedék során klánom jónéhány tagja rövid utakat tett a föld "
 "felszínén. Arra születtünk, hogy repüljünk, de csak kevés lehetőségünk van "
-"rá, hogy ezt a barlangokban megtegyük. Hosszú ideje arról álmodunk, hogy "
-"eljön a nap, amikor véglegesen ott élhetünk. Nem engedhetünk el egy ilyen "
-"esélyt."
+"rá, hogy ezt a barlangokban megtegyük. Hosszú ideje álmodunk arról, hogy "
+"eljő a nap, mikor véglegesen a felszínen élhetünk. Nem szalaszthatunk el egy "
+"ilyen lehetőséget."
 
 #. [message]: description=Derk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:208
@@ -371,7 +373,7 @@ msgid ""
 "dwarves - have been attacking more and more frequently. Something must be "
 "done if we are to survive."
 msgstr ""
-"Nem tehetek mást, csak egyetérteni veled. Az elmúlt években a trollok - és "
+"Nem tehetek mást, egyet kell értenem veled. Az elmúlt években a trollok - és "
 "még a törpök is - egyre gyakrabban támadtak. Valamit tennünk kell, hogyha "
 "túl akarjuk ezt élni."
 
@@ -386,13 +388,13 @@ msgid ""
 "we go? Who knows what manner of creatures occupy the land we would be "
 "attempting to settle."
 msgstr ""
-"Nem hiszem el, hogy ezt kell hallanom! Azt mondod egyetértesz ezzel az "
-"esztelen ötlettel? Ez őrültség! Méghogyha tudunk is valami keveset a "
+"Nem hiszem el, hogy ezt kell hallanom! Azt mondod, egyetértesz ezzel az "
+"esztelen ötlettel? Ez őrültség! Még hogyha tudunk is valami keveset a "
 "barlangokon kívüli világról, oda eljutni önmagában is egy óriási feladat "
 "lenne. Az egy dolog, hogy egy-két Perzsekény kirepül néha-néha, de hogy "
-"mindannyiunkat kivigyél innen? Lehetetlen. És még akkor is, hogyha kijutunk, "
-"hova mennénk? Ki tudja milyen teremtmények élnek azon a földön, amin le "
-"akarnánk telepedni."
+"mindannyiunkat kivigyél innen? Lehetetlen. És hogyha még ki is jutunk, hova "
+"mennénk? Ki tudja, milyen teremtmények élnek azon a földön, amin le akarnánk "
+"telepedni?"
 
 #. [message]: description=Stakron
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:216
@@ -402,7 +404,8 @@ msgid ""
 "undertaking."
 msgstr ""
 "Egyet kell értenem, Gakk. Habár szimpatizálok a gondolatokkal, amit társaim "
-"felvetettek, egyszerűen nem hiszem, hogy megéri egy ilyen nagy vállalkozás."
+"felvetettek, egyszerűen nem hiszem, hogy érdemes egy ilyen nagy "
+"vállalkozásba belevágni."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:220
@@ -418,7 +421,7 @@ msgstr ""
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:224
 msgid "At least we know the opposition here."
-msgstr "Legalább ismerjük az itteni ellenséget."
+msgstr "Az itteni ellenséget legalább ismerjük."
 
 #. [message]: description=Harkon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:228
@@ -453,7 +456,7 @@ msgstr "Egyetértek Freonnal - tennünk kell valamit. Szerintem menjünk."
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:244
 msgid "I long to soar in the sky with my brethren. We go."
-msgstr "Vágyom rá, hogy a fellegekben szárnyalhassak a testvéreimmel. Megyünk."
+msgstr "Vágyom rá, hogy a fellegekben szárnyalhassak testvéreimmel. Megyünk."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:248
@@ -517,11 +520,11 @@ msgid ""
 "better than the one they were leaving behind."
 msgstr ""
 "Hónapokig tartó készülődés után a Perzsekények elhagyták otthonaikat, és "
-"követték Kahnt az új hazájuk felé - bárhol is legyen az. Legtöbbjük "
-"támogatta a tervet. Majdnem minden család elvesztett valakit az utóbbi "
-"támadásokban, és mindannyian elkeseredettek voltak, hogy nem tudnak a "
-"barlangokban gyorsan mozogni. De még mindig azon tűnődtek, hogy új földjük "
-"vajon jobb lesz-e valamivel, mint amit most elhagynak."
+"követték Kahnt új hazájuk felé - bárhol is legyen az. Legtöbbjük támogatta a "
+"tervet. Majdnem minden család elvesztett valakit az utóbbi támadásokban, és "
+"mindannyian elkeseredettek voltak, hogy nem tudnak a barlangokban gyorsan "
+"mozogni. De még mindig azon tűnődtek, hogy új földjük vajon jobb lesz-e "
+"valamivel, mint amit most hátrahagynak."
 
 #. [part]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:12
@@ -537,7 +540,7 @@ msgstr ""
 #. [part]
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:15
 msgid "After two weeks of uneventful travel, they felt a breeze..."
-msgstr "Két hétnyi eseménytelen vándorlás után, éreztek egy fuvallatot..."
+msgstr "Két hétnyi eseménytelen vándorlás után, egy fuvallatot éreztek..."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:32
@@ -569,7 +572,7 @@ msgid ""
 "The exit to the caves is not far from here, but the dwarves and trolls are "
 "both close. Let us hope they do not notice us."
 msgstr ""
-"Ez a legkülsőbb erődítményünk, de nem használtuk már egy jó ideje. A "
+"Ez a legkülső erődítményünk, de nem használtuk már egy jó ideje. A "
 "barlangrendszer kijárata nincsen messze innen, de a törpök és a trollok is "
 "közel vannak. Reméljük nem vesznek észre minket."
 
@@ -579,7 +582,7 @@ msgid ""
 "Too late, lizard. What do you mean by trying to drag your sorry hides "
 "through our caves?"
 msgstr ""
-"Túl késő hüllő. Hogy gondoltad, hogy a bűzlő pikkelyeidet végigvonszolod a "
+"Túl késő hüllő. Hogy gondoltad, hogy bűzlő pikkelyeidet végigvonszolod a "
 "barlangunkon?"
 
 #. [message]: description=Kahn
@@ -646,7 +649,7 @@ msgstr "Látom a napfényt! Gyerünk népem - légy üdvözölve új otthonodban
 #. [scenario]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:4
 msgid "Leaving the Mountains"
-msgstr "A Hegyek Hátrahagyása"
+msgstr "A hegyek hátrahagyása"
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
@@ -655,6 +658,9 @@ msgid ""
 "trepidation as to what lay ahead. Nevertheless they were relieved to have "
 "escaped the caves, and awestruck by what they now saw."
 msgstr ""
+"Ahogy felbukkantak pislogva a napfényben, a Perzsekények valamelyest "
+"izgatottak voltak, vajon mi vár rájuk. Ennek ellenére megkönnyebbültek, hogy "
+"megmenekültek a barlangokból, és lenyűgözte őket, amit láttak."
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:12
@@ -663,6 +669,9 @@ msgid ""
 "large mountain range. To the south-west they could see where the mountains "
 "ended and hills, plains and forest began."
 msgstr ""
+"Egy olyan járaton hagyták el a barlangokat, amely egy hatalmas hegység "
+"közepében tört felszínre. Dél-Nyugatra láthatták, ahol a hegyek véget érnek, "
+"dombok, síkságok és erdők kezdődnek."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:48
@@ -681,6 +690,10 @@ msgid ""
 "are creatures that inhabit these mountains that will not tolerate our "
 "presence, and if the dwarves and trolls haven't found us yet, they soon will."
 msgstr ""
+"Gyönyörű, nem de? Sajnálatos módon nem állhatunk meg sokáig nézelődni. A "
+"hegyeknek vannak lakói, akik nem fogják jó szemmel nézni itt létünket, és "
+"hogyha a törpök és trollok még nem is találtak meg bennünket, hamarosan "
+"megfognak."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:148
@@ -703,21 +716,25 @@ msgid ""
 "Larron, my friend! These creatures are trying to steal our caves. If you "
 "value our trade, please help us destroy them."
 msgstr ""
+"Larron, barátom! Ezek a teremtmények el akarják lopni a barlangjainkat. "
+"Hogyha fontos számodra kereskedelmünk, kérlek segíts elpusztítani őket."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:172
 msgid "We're not interested in your caves!"
-msgstr ""
+msgstr "Nem érdekel minket a barlangotok!"
 
 #. [message]: description=Larron
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:176
 msgid "A likely story. Men, kill those things!"
-msgstr ""
+msgstr "Hihető történet. Emberek, öljétek meg azokat a lényeket!"
 
 #. [message]: description=Zuug
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:182
 msgid "Trolls kill humans too. We no care. All go squish under club and fist."
 msgstr ""
+"Trollok megölik embereket is. Nem érdekel minket. Mindenki kilapul bunkó és "
+"ököl alatt."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:253
@@ -730,6 +747,8 @@ msgid ""
 "We can't leave the mountains yet. We must defeat our enemies or they will "
 "continue to follow us."
 msgstr ""
+"Még nem hagyhatjuk el a hegyeket. El kell pusztítanunk ellenségeinket, "
+"különben továbbra is követni fognak minket."
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
@@ -762,7 +781,7 @@ msgid ""
 msgstr ""
 "Még sohasem léptünk be ebbe az erdőbe. Túlságosan sötétnek, és baljósnak "
 "nézett ki, így mindig elkerültük. Bárhogyis, ebben a helyzetben nincs más "
-"lehetőségünk, csak keresztül vágni rajta. Óvatosnak kell lennünk."
+"lehetőségünk, csak keresztülvágni rajta. Óvatosnak kell lennünk."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:120
@@ -781,12 +800,12 @@ msgid ""
 "soon as possible. From memory, it will be quickest to head south."
 msgstr ""
 "Nem tudom, de nem hangzott túl jól. Vágjunk át az erdőn amilyen gyorsan csak "
-"lehet. Emlékszem rá, hogy a leggyorsabb az lesz, ha délnek tartunk."
+"lehet. Emlékeim szerint a leggyorsabb az lesz, ha délnek tartunk."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:195
 msgid "I never want to see another tree in my entire life."
-msgstr "Soha többet nem akarok egyetlen egy fát sem látni életemben."
+msgstr "Soha többet az életben nem akarok egyetlen egy fát sem látni."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:204
@@ -805,7 +824,7 @@ msgid ""
 "forest of its current inhabitants first."
 msgstr ""
 "Nem tetszik az ötlet, hogy élőholtak közelében éljünk. Talán először meg "
-"kellene tisztítanunk ezt az erdőt a lakóitól."
+"kellene tisztítanunk ezt az erdőt lakóitól."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:228
@@ -814,7 +833,7 @@ msgid ""
 "us while we try and build our new homes."
 msgstr ""
 "Igen, azt gondolom igazad van. Pusztítsuk el az élőhalottakat, különben "
-"megtámadhatnak minket, amikor új otthonainkat építjük."
+"megtámadhatnak minket, mikor új otthonainkat építjük."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:233
@@ -824,7 +843,7 @@ msgstr "Legyőzöd az ellenséges vezéreket, és;"
 #. [scenario]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
 msgid "The Humans"
-msgstr "Az emberek"
+msgstr "Az embereket"
 
 #. [part]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:8
@@ -834,9 +853,9 @@ msgid ""
 "sizes. And immediately before them was a huge city."
 msgstr ""
 "Mikor előbukkantak az erdőből, maguk mögött hagyva az élőhalottakat, a "
-"Perzsekények megpillantottak egy kiterjedt síkságot. De elszórva különböző "
-"méretű települések feküdtek rajta. Közvetlenül előttük egy hatalmas város "
-"terült el."
+"Perzsekények megpillantottak egy kiterjedt síkságot. Elszórva rajta "
+"különböző méretű települések feküdtek. Közvetlenül előttük egy hatalmas "
+"város terült el."
 
 #. [part]
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:12
@@ -883,7 +902,7 @@ msgid ""
 "your entire race."
 msgstr ""
 "Hmmm. Nos, ahogy láthatod ez a terület már így is sűrűn lakott. Itt csak "
-"kevés szabad hely van - biztosan sehogysem elég nagy egész néped számára."
+"kevés szabad hely van - biztosan seholsem elég nagy egész néped számára."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:70
@@ -898,7 +917,7 @@ msgid ""
 "would be suitable for your needs."
 msgstr ""
 "Talán nem. Létezik egy trópusi sziget, valamelyest messze keleten, amit "
-"Morogornak hívnak. Lakatlan. Habár néhányan állítják, hogy átkozott. Úgy "
+"Morogornak hívnak. Lakatlan. Habár néhányan azt állítják, hogy átkozott. Úgy "
 "hiszem megfelelő lenne szükségleteiteknek."
 
 #. [message]: description=Kahn
@@ -918,13 +937,13 @@ msgid ""
 "you doing something for us in return."
 msgstr ""
 "Talán megegyezhetnénk. Nekünk egy óriási flottánk van - elég nagy, hogy "
-"átszállítsuk népedet. De nem ajánlhatom fel segítségünket anélkül, hogy "
-"cserébe ne kapnánk valamit tőletek."
+"átszállítsuk egész népedet. De nem ajánlhatom fel segítségünket anélkül, "
+"hogy cserébe ne kapnánk valamit tőletek."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:86
 msgid "What did you have in mind?"
-msgstr "Mire gondolsz?"
+msgstr "Mi jár a fejedben?"
 
 #. [message]: description=Alamar
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:90
@@ -934,10 +953,10 @@ msgid ""
 "south east of here who have been troubling us of late. Defeat these bandits "
 "for us, and we will transport you to Morogor."
 msgstr ""
-"Kémeim jelentették, hogy a Halottak Erdejéből érkeztetek. Egy ilyen dolgot "
-"megvalósítani csak képzett harcosok tudnak. Van egy nagy csapat bandita "
-"innen dél-keletre, akik már régen gondot okoznak nekünk. Győzd le ezeket a "
-"banditákat, és elviszünk Morogorra."
+"Felderítőim jelentették, hogy a Holtak Erdejéből érkeztetek. Egy ilyen "
+"dolgot megvalósítani csak képzett harcosok tudnak. Van egy nagy csapat "
+"bandita innen dél-keletre, akik már régen gondot okoznak nekünk. Győzd le "
+"ezeket a banditákat, és elviszünk Morogorra."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:94
@@ -950,7 +969,7 @@ msgid ""
 "I will order our navy to begin preparations at once. We should be ready to "
 "depart by the time you return."
 msgstr ""
-"Most azonnal kiadom a parancsot a flottánknak a készülődéshez. Mire "
+"Most azonnal kiadom a parancsot flottánknak a készülődéshez. Mire "
 "visszatérsz, készen leszünk."
 
 #. [message]: description=Kahn
@@ -1014,7 +1033,7 @@ msgstr ""
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:145
 msgid "None come to mind."
-msgstr "Egyikőtök sincs a józan eszénél."
+msgstr "Egy sem jut eszembe."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:149
@@ -1156,7 +1175,7 @@ msgid ""
 msgstr ""
 "Befejezzük ezt az őrültséget egyszer és mindenkorra. Már az is elég szörnyű "
 "volt, hogy elhagyjuk otthonainkat, kényszerítve arra, hogy trollokkal és "
-"törpökkel küzdjünk. De hogy békét kössünk ezekkel az emberekkel..."
+"törpökkel küzdjünk. De hogy üzletet kössünk ezekkel az emberekkel..."
 
 #. [message]: description=Gakk
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:139
@@ -1178,7 +1197,7 @@ msgid ""
 "Whatever else we may do, we cannot return to the caves. They will certainly "
 "have been overrun with dwarves and trolls by now."
 msgstr ""
-"Bármi mást is tegyünk, de nem térhetünk vissza a barlangokba. Mostanra már "
+"Bármi mást is tegyünk, nem térhetünk vissza a barlangokba. Mostanra már "
 "biztosan ellepték a törpék és trollok."
 
 #. [message]: description=Freon
@@ -1449,7 +1468,7 @@ msgstr "Legyőzöd a megmaradt Nagákat"
 #. [message]: description=Sekol
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:726
 msgid "Avenge me, brotherssss and ssssissssterssss..."
-msgstr "Toroljatok meg, tessstvéreim!"
+msgstr "Bosssszuljatok meg, tesssstvéreim!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:736
@@ -1489,7 +1508,7 @@ msgid ""
 "any chances. The Drakes began to survey the land they were to call home."
 msgstr ""
 "Miután sikeresen túljutottak a Nagákon, a Perzsekények hamarosan "
-"partraszálltak Morogoron. Az emberek olyan gyorsan ahogy csak tudtak "
+"partraszálltak Morogoron. Az emberek olyan gyorsan, ahogy csak tudtak "
 "elindultak, nem akartak kockáztatni. A Perzsekények elkezdték felfedezni a "
 "földet, amelyet majd otthonuknak hívhatnak."
 
@@ -1502,7 +1521,7 @@ msgstr "Legyőzöd az élőholtakat"
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:88
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
-msgstr "Ugh! Ez a hely undorító! Talán Gakknak igaza volt."
+msgstr "Uff! Ez a hely undorító! Talán Gakknak igaza volt."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:92
@@ -1522,7 +1541,7 @@ msgstr "Reménykedjünk ebben. Nézd - ott vannak élőholtak. Vágjunk bele!"
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:106
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr ""
-"Milyen ördöngösség ez? A Perzsekények, akik elhullnak újra életrekellnek?"
+"Milyen ördöngösség ez? A Perzsekények, akik elhullnak újra életre kellnek?"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:110
@@ -1603,7 +1622,7 @@ msgid ""
 "and grips your heart."
 msgstr ""
 "Nem folytathatjuk ezt a végtelenségig. A sötétség elér minket belül, és "
-"elszorítja a szívünket."
+"elszorítja szívünket."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:99
@@ -1692,7 +1711,8 @@ msgid ""
 "I don't know how much longer we can continue this. There are rumours of "
 "mutiny again."
 msgstr ""
-"Nem tudom meddig folytathatjuk ezt. Pletykák vannak egy újabb lázadásról."
+"Nem tudom meddig folytathatjuk ezt. Pletykák terjengenek egy újabb "
+"lázadásról."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:210
@@ -1766,7 +1786,7 @@ msgid ""
 "powerful one at that. In fact, he has perhaps too much power."
 msgstr ""
 "Ő egy Villi - egy sötét varázsló, aki maga is élőholttá vált. És egy elég "
-"erős abból a fajtából. Ez esetben, talán túl sok ereje van."
+"erős abból a fajtából. Valójában, talán túl sok ereje is van."
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:144
@@ -1780,14 +1800,14 @@ msgid ""
 "of great power that sustains him. Destroy the talisman and he will be "
 "greatly weakened. Only then will we be able to defeat him."
 msgstr ""
-"Nem, sokkal több ereje van, mint ami lehetséges. Meglehet, hogy valami "
-"erőteljes talizmánja van, ami táplálja őt. Pusztítsátok el a talizmánt, és "
-"akkor legyengül. Csak akkor leszünk képesek legyőzni őt."
+"Nem, sokkal több hatalma van, mint ami lehetséges lenne. Meglehet, hogy "
+"valami erőteljes talizmánja van, ami táplálja őt. Pusztítsátok el a "
+"talizmánt, és akkor legyengül. Csak akkor leszünk képesek legyőzni őt."
 
 #. [message]: speaker=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:152
 msgid "You don't sound too sure."
-msgstr "Nem hangzol valami meggyőzően."
+msgstr "Ez nem hangzott valami meggyőzően."
 
 #. [message]: speaker=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:156
@@ -1797,10 +1817,10 @@ msgid ""
 "it will be close to him - I doubt he would let it far out of his sight. And "
 "the closer it is to him the more power he can draw from it."
 msgstr ""
-"Nem is vagyok, de ez az egyetlen esélyünk. Ha közvetlenül támadjuk meg, "
-"akkor biztosan elbukunk. Meg kell találnunk és elpusztítanunk ereje "
-"forrását. Kétségtelen, hogy közel lesz hozzá - kétlem, hogy látótávolságon "
-"kívül hagyná. És minél közelebb van hozzá, annál több erőt meríthet belőle."
+"Nem, de ez az egyetlen esélyünk. Ha közvetlenül támadjuk meg, akkor biztosan "
+"elbukunk. Meg kell találnunk és elpusztítanunk ereje forrását. Kétségtelen, "
+"hogy közel lesz hozzá - kétlem, hogy látótávolságon kívül hagyná. És minél "
+"közelebb van hozzá, annál több erőt meríthet belőle."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:161
@@ -1855,17 +1875,17 @@ msgid ""
 "greater than you can imagine!"
 msgstr ""
 "Azt gondoljátok, hogy már nem vagyok képes megvédeni magamat? Még mindig "
-"akkora erőm van, amit el sem tudtok képzelni!"
+"nagyobb erőm van, mint amit el tudtok képzelni!"
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:476
 msgid "This darkness pervades my soul. I cannot continue any longer!"
-msgstr "A sötétség átjárja a lelkem. Nem tudom ezt folytatni!"
+msgstr "A sötétség átjárja lelkem. Nem tudom ezt folytatni!"
 
 #. [message]: description=Mal-Bronam
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:486
 msgid "No! It cannot be! I am immortal! I am invincible! I am -"
-msgstr "Ne! Ez nem lehet! Halhatatlan vagyok! Sérthetetlen vagyok! Én -"
+msgstr "Ne! Ez nem lehet! Halhatatlan vagyok! Sérthetetlen vagyok! Én..."
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:490
@@ -1910,11 +1930,11 @@ msgid ""
 "it was already receding. They could see that once it returned to normal, it "
 "would be a beautiful place."
 msgstr ""
-"A Perzsekények három napig a nyílt síkságokon gyülekeztek, mivel földrengés "
-"volt. Aztán hírtelen a rezgések abbamaradtak, és a Perzsekények az első "
-"pillantást vethették a szigetre. Még mindig mocsár uralta a többségét, de "
-"már visszahúzódóban volt. Láthatták, mihelyt eredeti állapotába tér vissza, "
-"egy gyönyörű hely lesz belőle."
+"A Perzsekények három napig a nyílt síkságokon gyülekeztek, mivel a föld még "
+"mindig mozgott. Aztán hírtelen a rezgések abbamaradtak, és a Perzsekények az "
+"első igazi pillantást vethették a szigetre. Még mindig mocsár uralta a "
+"többségét, de már visszahúzódóban volt. Láthatták, mihelyt eredeti "
+"állapotába tér vissza, egy gyönyörű hely lesz belőle."
 
 #. [part]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:11
@@ -1923,7 +1943,7 @@ msgid ""
 "in particular struggled to convince himself that it had all been worth it."
 msgstr ""
 "Azonban kevesebb, mint az elinduló Perzsekények egy-ötöde élte túl. Kahn "
-"maga is küzdött azzal, hogy meggyőzze magát arról, valóban megérte."
+"különösen küzdött, hogy meggyőzze magát arról, mindez valóban megérte."
 
 #. [part]
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:14
@@ -1933,7 +1953,7 @@ msgid ""
 "around the island of the Nagas. The Drakes thrived in their new home, and "
 "their numbers grew once again."
 msgstr ""
-"Idővel, azonban képes volt bánatát kezelni, és még évekig irányította a "
+"Idővel, azonban képes volt bánatát leküzdeni, és még évekig irányította a "
 "Perzsekényeket. Az emberek segítségével megtisztították a sziget körüli "
 "vizeket a Nagáktól. A Perzsekények elfoglalták új otthonukat, és számuk újra "
 "növekedett."
