@@ -1,15 +1,15 @@
-# #-#-#-#-#  wesnoth-Children of the Dragons (Battle for Wesnoth)  #-#-#-#-#
 # Danish translations for Campaign Children of the Dragons.
+# Copyright (C) 2008 Wesnoth Development Team and Joe Hansen.
 # This file is distributed under the same license as the Battle for Wesnoth package.
-# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-02 17:42+0200\n"
+"POT-Creation-Date: 2008-11-24 23:10+0100\n"
 "PO-Revision-Date: 2007-05-08 13:27+0200\n"
-"Last-Translator: Joe Hansen\n"
+"Last-Translator: Joe Hansen <dansk@dansk-gruppen.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +30,7 @@ msgid ""
 msgstr ""
 "Tidligere var dragerne de mest frygtede levende skabninger, i dag er de "
 "uddøde. Men deres efterkommere er nu klar til at give deres bidrag til "
-"historiskrivningen."
+"historiskrivningen..."
 
 #. [campaign]
 #: Children_of_Dragons.cfg:14
@@ -60,12 +60,12 @@ msgstr "Illustrationsmateriale og grafik"
 #. [entry]
 #: Children_of_Dragons.cfg:29
 msgid "Original unit sprites"
-msgstr ""
+msgstr "Oprindelig enhedssprites"
 
 #. [about]
 #: Children_of_Dragons.cfg:33
 msgid "Maps"
-msgstr ""
+msgstr "Kort"
 
 #. [about]
 #: Children_of_Dragons.cfg:42
@@ -114,40 +114,40 @@ msgid "Defeat all enemy leaders"
 msgstr "Besejr alle fjendtlige ledere"
 
 #. [objective]: condition=lose
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:42
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:613
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:37
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:56
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:37
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:122
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:159
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:36
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:37
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:36
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:36
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:37
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:169
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:448
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:42
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:33
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:37
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:241
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:42
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:613
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:33
 msgid "Death of Kahn"
 msgstr "Kahns død"
 
 #. [objective]: condition=lose
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:45
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:64
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:45
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:130
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:167
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:48
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:45
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:44
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:48
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:45
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:177
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:456
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:46
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:45
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:249
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37
 msgid "Turns run out"
 msgstr "Runder forbi"
 
@@ -382,7 +382,7 @@ msgstr ""
 "det at flytte være en kæmpe opgave. At en eller to hestedrager flyver ud, en "
 "gang imellem, er en ting men at flytte os alle? Det kan ikke gøres. Og selv "
 "om vi kom ud, hvor skulle vi slå os ned? Hvem ved hvilke skabinger, der "
-"lever på jorden vi vil bosætte?"
+"lever på jorden vi vil bosætte."
 
 #. [message]: description=Stakron
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:216
@@ -536,20 +536,20 @@ msgid "Kahn must reach the exit"
 msgstr "Kahn skal nå udgangen"
 
 #. [objective]: condition=lose
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:46
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:617
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:41
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:60
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:41
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:126
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:163
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:40
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:41
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:40
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:40
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:41
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:173
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:452
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:41
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:245
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:46
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:617
 msgid "Death of Freon"
 msgstr "Freons død"
 
@@ -640,7 +640,6 @@ msgstr "Rejsen ud af bjergene"
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
-#, fuzzy
 msgid ""
 "As they emerged, blinking, into the sunlight, the drakes felt some "
 "trepidation as to what lay ahead. Nevertheless they were relieved to have "
@@ -653,7 +652,6 @@ msgstr ""
 
 #. [part]
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:12
-#, fuzzy
 msgid ""
 "They had left the caves via an opening which emerged in the middle of a "
 "large mountain range. To the south-west they could see where the mountains "
@@ -661,14 +659,12 @@ msgid ""
 msgstr ""
 "De var kommet ud af hulerne via en tunnel, som havde udgang i midten af en "
 "stor bjergkæde. Til sydvest kunne de se, hvor bjergene endte og bakker, "
-"stepper og skov begyndte. Forventningens glæde spredte sig iblandt dem da de "
-"så muligheden for, at alt dette kunne blive deres."
+"stepper og skov begyndte."
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:48
-#, fuzzy
 msgid "Defeat enemy leaders; and"
-msgstr "Besejr alle fjendtlige ledere og;"
+msgstr "Besejr alle fjendtlige ledere; og"
 
 #. [objective]: condition=win
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:52
@@ -677,15 +673,14 @@ msgstr "Få Kahn til enden af bjergene"
 
 #. [message]: description=Freon
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:144
-#, fuzzy
 msgid ""
 "Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
 "are creatures that inhabit these mountains that will not tolerate our "
 "presence, and if the dwarves and trolls haven't found us yet, they soon will."
 msgstr ""
 "Smukt ikke? Desværre kan vi ikke kigge i for lang tid. Der er skabninger i "
-"disse bjerge som ikke vil tolere vores tilstedeværelse, og uden tvivl vil "
-"dværge og trolde følge efter os, hvis de ikke har for travlt med hinanden."
+"disse bjerge som ikke vil tolere vores tilstedeværelse, og hvis dværgene og "
+"troldene ikke har fundet os endnu, så vil de snart gøre det."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:148
@@ -708,21 +703,25 @@ msgid ""
 "Larron, my friend! These creatures are trying to steal our caves. If you "
 "value our trade, please help us destroy them."
 msgstr ""
+"Larron, min ven! Disse skabninger forsøger at stjæle vores huler. Hvis du "
+"værdsætter min handel, så hjælp os med at knuse dem."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:172
 msgid "We're not interested in your caves!"
-msgstr ""
+msgstr "Vi er ikke interesseret i dine huler!"
 
 #. [message]: description=Larron
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:176
 msgid "A likely story. Men, kill those things!"
-msgstr ""
+msgstr "Hvilken »historie«. Mænd, dræb dem!"
 
 #. [message]: description=Zuug
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:182
 msgid "Trolls kill humans too. We no care. All go squish under club and fist."
 msgstr ""
+"Trolde dræber også mennesker. Vi er ligegalde. Alle knuse under hammer og "
+"næve."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:253
@@ -735,6 +734,8 @@ msgid ""
 "We can't leave the mountains yet. We must defeat our enemies or they will "
 "continue to follow us."
 msgstr ""
+"Vi kan ikke forlade bjergene endnu. Vi må besejre vores fjender eller de vil "
+"fortsætte med at følge os."
 
 #. [scenario]
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
@@ -887,7 +888,7 @@ msgid ""
 "your entire race."
 msgstr ""
 "Hmmm. Jaså, som du kan se er landet heromkring allerede godt beboet. Der er "
-"ikke meget ledig plads - bestemt ikke nok til hele jeres befolkning. "
+"ikke meget ledig plads - bestemt ikke nok til hele jeres befolkning."
 
 #. [message]: description=Kahn
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:70
@@ -1362,7 +1363,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:38
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:609
 msgid "Survive until the end of turns"
-msgstr "Overlev indtil sidste runde."
+msgstr "Overlev indtil sidste runde"
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:50
@@ -1490,8 +1491,8 @@ msgstr ""
 "kalde deres hjem."
 
 #. [objective]: condition=win
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:33
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118
 msgid "Defeat the undead"
 msgstr "Besejr de udøde"
 
