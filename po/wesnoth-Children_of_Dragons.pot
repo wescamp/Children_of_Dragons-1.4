@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-02 17:42+0200\n"
+"POT-Creation-Date: 2008-11-24 23:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,12 +81,12 @@ msgid "Defeat all enemy leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:56 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:37 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:122 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:159 ./Children_of_Dragons/scenarios/07_Bandits.cfg:36 ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:37 ./Children_of_Dragons/scenarios/03_The_Emerging.cfg:36 ./Children_of_Dragons/scenarios/12_Showdown.cfg:37 ./Children_of_Dragons/scenarios/12_Showdown.cfg:169 ./Children_of_Dragons/scenarios/12_Showdown.cfg:448 ./Children_of_Dragons/scenarios/08_To_the_Ships.cfg:42 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:37 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:241 ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:42 ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:613 ./Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:33
+#: ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:42 ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:613 ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:37 ./Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:56 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:37 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:122 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:159 ./Children_of_Dragons/scenarios/03_The_Emerging.cfg:36 ./Children_of_Dragons/scenarios/07_Bandits.cfg:36 ./Children_of_Dragons/scenarios/12_Showdown.cfg:37 ./Children_of_Dragons/scenarios/12_Showdown.cfg:169 ./Children_of_Dragons/scenarios/12_Showdown.cfg:448 ./Children_of_Dragons/scenarios/08_To_the_Ships.cfg:42 ./Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:33 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:37 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:241
 msgid "Death of Kahn"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:64 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:45 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:130 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:167 ./Children_of_Dragons/scenarios/07_Bandits.cfg:48 ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:45 ./Children_of_Dragons/scenarios/03_The_Emerging.cfg:44 ./Children_of_Dragons/scenarios/12_Showdown.cfg:45 ./Children_of_Dragons/scenarios/12_Showdown.cfg:177 ./Children_of_Dragons/scenarios/12_Showdown.cfg:456 ./Children_of_Dragons/scenarios/08_To_the_Ships.cfg:46 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:45 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:249 ./Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37
+#: ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:45 ./Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:64 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:45 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:130 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:167 ./Children_of_Dragons/scenarios/03_The_Emerging.cfg:44 ./Children_of_Dragons/scenarios/07_Bandits.cfg:48 ./Children_of_Dragons/scenarios/12_Showdown.cfg:45 ./Children_of_Dragons/scenarios/12_Showdown.cfg:177 ./Children_of_Dragons/scenarios/12_Showdown.cfg:456 ./Children_of_Dragons/scenarios/08_To_the_Ships.cfg:46 ./Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:45 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:249
 msgid "Turns run out"
 msgstr ""
 
@@ -336,7 +336,7 @@ msgid "Kahn must reach the exit"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:60 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:41 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:126 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:163 ./Children_of_Dragons/scenarios/07_Bandits.cfg:40 ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:41 ./Children_of_Dragons/scenarios/03_The_Emerging.cfg:40 ./Children_of_Dragons/scenarios/12_Showdown.cfg:41 ./Children_of_Dragons/scenarios/12_Showdown.cfg:173 ./Children_of_Dragons/scenarios/12_Showdown.cfg:452 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:41 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:245 ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:46 ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:617
+#: ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:46 ./Children_of_Dragons/scenarios/09_Sea_Journey.cfg:617 ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:41 ./Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:60 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:41 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:126 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:163 ./Children_of_Dragons/scenarios/03_The_Emerging.cfg:40 ./Children_of_Dragons/scenarios/07_Bandits.cfg:40 ./Children_of_Dragons/scenarios/12_Showdown.cfg:41 ./Children_of_Dragons/scenarios/12_Showdown.cfg:173 ./Children_of_Dragons/scenarios/12_Showdown.cfg:452 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:41 ./Children_of_Dragons/scenarios/05_Dark_Forest.cfg:245
 msgid "Death of Freon"
 msgstr ""
 
@@ -1031,7 +1031,7 @@ msgid "Having successfully made it past the Nagas, the Drakes soon landed on Mor
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118 ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:33
+#: ./Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:33 ./Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118
 msgid "Defeat the undead"
 msgstr ""
 
